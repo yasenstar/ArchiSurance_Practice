@@ -2,7 +2,7 @@
 
 ![archi_logo](img/Archi_Logo.png)
 
-Initialized clean model: [initial_model](./ArchiSurance_Practice.archimate)
+Initialized clean model: [initial_model](./ArchiSurance_Practice.archimate), [Video_Link](https://www.youtube.com/watch?v=34EXDp1sIQU&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=1)
 
 ## Phase A: Architecture Vision
 
