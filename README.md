@@ -2,11 +2,11 @@
 
 ![archi_logo](img/Archi_Logo.png)
 
-Initialized clean model: [initial_model](./ArchiSurance_Practice.archimate), [Video_Link](https://www.youtube.com/watch?v=34EXDp1sIQU&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=1)
+Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://www.youtube.com/watch?v=34EXDp1sIQU&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=1)
 
 ## Phase A: Architecture Vision
 
-Figure 3: Fragment of a Stakeholder View
+Figure 3: Fragment of a Stakeholder View: [Archi_Model_03](./Phase_A_Architecture_Vision/03_Fragement_of_a_Stakeholder_View.archimate), [Video03_Link](https://www.youtube.com/watch?v=fu9ggwU7d4g&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=2)
 
 Figure 4: Business Goals Associated with the Driver Profitability
 
