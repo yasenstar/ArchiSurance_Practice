@@ -1,5 +1,7 @@
 # ArchiSurance_Practice
 
+![archi_logo](img/Archi_Logo.png)
+
 ## Phase A: Architecture Vision
 
 Figure 3: Fragment of a Stakeholder View
