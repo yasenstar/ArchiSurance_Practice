@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ArchiSurance_Practice" id="id-f0607ad9eb0845a8829f43f5f7c676ff" version="5.0.0">
+  <folder name="Strategy" id="id-a325666baa9e42328cb3885be26ee808" type="strategy"/>
+  <folder name="Business" id="id-86efb96ef15a4d7f8f07cfd6c158754e" type="business"/>
+  <folder name="Application" id="id-e7873fa99c264b74a8adca54f804ca99" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-266978397c8d450fa95fe381d5bc8cab" type="technology"/>
+  <folder name="Motivation" id="id-efc27e0a7f264ee1bd2070176560caae" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-02997ebe92024138a25499b73aa3a7e0" type="implementation_migration"/>
+  <folder name="Other" id="id-0241c7e68d9a4400aa0b56e7093fe27e" type="other"/>
+  <folder name="Relations" id="id-8aa19913da1542c4b8592cf296504e57" type="relations"/>
+  <folder name="Views" id="id-7e5d13af5fbc4f44b25d98e6b7e63081" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-6f87df5883c34f23af7764de38ff5922">
+      <child xsi:type="archimate:Note" id="id-d424b556613343e18bb748821630dc84" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="156" y="36" width="541" height="37"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-7b01c8bcc57c4711b2ab3337adc5d055" textAlignment="1" borderType="2">
+        <bounds x="624" y="456" width="211" height="47"/>
+        <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+      </child>
+      <property key="Last Update" value="2023-03-31"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
+    </element>
+  </folder>
+</archimate:model>

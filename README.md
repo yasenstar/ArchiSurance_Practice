@@ -2,6 +2,8 @@
 
 ![archi_logo](img/Archi_Logo.png)
 
+Initialized clean model: [initial_model](./ArchiSurance_Practice.archimate)
+
 ## Phase A: Architecture Vision
 
 Figure 3: Fragment of a Stakeholder View
