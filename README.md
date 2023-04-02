@@ -2,13 +2,21 @@
 
 ![archi_logo](img/Archi_Logo.png)
 
-Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://www.youtube.com/watch?v=34EXDp1sIQU&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=1)
+Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)
 
 ## Phase A: Architecture Vision
 
-Figure 3: Fragment of a Stakeholder View: [Archi_Model_03](./Phase_A_Architecture_Vision/03_Fragement_of_a_Stakeholder_View.archimate), [Video03_Link](https://www.youtube.com/watch?v=fu9ggwU7d4g&list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk&index=2)
+Figure 3: Fragment of a Stakeholder View: 
 
-Figure 4: Business Goals Associated with the Driver Profitability
+- [Archi_Model_03](./Phase_A_Architecture_Vision/03_Fragement_of_a_Stakeholder_View.archimate)
+- [Video03_Link](https://youtu.be/fu9ggwU7d4g)
+- ![view03](./Phase_A_Architecture_Vision/03_Fragement%20of%20a%20Stakeholder%20View.jpg)
+
+Figure 4: Business Goals Associated with the Driver Profitability:
+
+- [Archi_Model_04](./Phase_A_Architecture_Vision/04_Business_Goals_associated_with_Goal.archimate)
+- [Video04_link](https://youtu.be/VbRfkwKFORY)
+- ![view04](./Phase_A_Architecture_Vision/04%20Business%20Goals%20Associated%20with%20the%20Driver%20Profitability.jpg)
 
 Figure 5: Principles View (Fragment)
 
