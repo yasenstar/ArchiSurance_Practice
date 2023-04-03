@@ -20,6 +20,10 @@ Figure 4: Business Goals Associated with the Driver Profitability:
 
 Figure 5: Principles View (Fragment)
 
+- [Archi_Model_05](./Phase_A_Architecture_Vision/05_Principles_View.archimate)
+- [Vidoe05_link]()
+- ![view05](./Phase_A_Architecture_Vision/05%20Principles%20View.jpg)
+
 Figure 6: Goal Refinement View for Rationalization Strategy
 
 Figure 7: Strategy View for Digital Customer Intimacy Strategy
