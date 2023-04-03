@@ -1,5 +1,7 @@
 # ArchiSurance_Practice
 
+Welcome, I'll try to record videos for those views modelings soon and keep adding here...
+
 ![archi_logo](img/Archi_Logo.png)
 
 Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)
