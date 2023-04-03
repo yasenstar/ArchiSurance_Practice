@@ -21,7 +21,7 @@ Figure 4: Business Goals Associated with the Driver Profitability:
 Figure 5: Principles View (Fragment)
 
 - [Archi_Model_05](./Phase_A_Architecture_Vision/05_Principles_View.archimate)
-- [Vidoe05_link]()
+- [Vidoe05_link](https://youtu.be/cAXccd-TrYs)
 - ![view05](./Phase_A_Architecture_Vision/05%20Principles%20View.jpg)
 
 Figure 6: Goal Refinement View for Rationalization Strategy
