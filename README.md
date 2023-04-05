@@ -9,6 +9,10 @@ Thanks for comment from [Marc Lankhorst](https://www.linkedin.com/in/marclankhor
 
 ---
 
+Note: from 2023-04-05, the modeling practice will base on ArchiSurance Case Study v3.1, updated document can be found [here](./docs/Y194_ArchiSurance_v3.1.pdf)
+
+---
+
 ![archi_logo](img/Archi_Logo.png)
 
 Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)
