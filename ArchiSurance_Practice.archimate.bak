@@ -145,25 +145,25 @@
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="05 Principles View" id="id-f4688f312619422594a58673dfbbe371">
         <child xsi:type="archimate:Note" id="id-20a76381381c45f687968abf0b432d1b" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
-          <bounds x="156" y="36" width="541" height="37"/>
+          <bounds x="31" y="30" width="541" height="37"/>
           <feature name="labelExpression" value="$view{name}"/>
         </child>
         <child xsi:type="archimate:Note" id="id-089c9d5fb37541688ded998b3476051f" textAlignment="1" borderType="2">
-          <bounds x="516" y="300" width="211" height="47"/>
+          <bounds x="391" y="294" width="211" height="47"/>
           <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a58cc8dc44e14aa9bec96b0ac84b753f" targetConnections="id-9902bc3b21d34df8880078f21e98fc8a" archimateElement="id-27481cf7c70f47faa792099e2bc0d393">
-          <bounds x="221" y="114" width="161" height="55"/>
+          <bounds x="96" y="108" width="161" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9123f2903be3489a8050041bb228d842" targetConnections="id-b963837efc724821ae59611bbe3154ac id-fc14692c638f477bb6ffe080e12d3e7e" archimateElement="id-d44662d3984845868394da79007de9ab">
-          <bounds x="418" y="114" width="161" height="55"/>
+          <bounds x="293" y="108" width="161" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e6329be868bc4036aa608cb8f8fe1b3f" archimateElement="id-3f21a591224e4e57af8bf54bc2c4821b">
-          <bounds x="456" y="204" width="161" height="55"/>
+          <bounds x="331" y="198" width="161" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-fc14692c638f477bb6ffe080e12d3e7e" source="id-e6329be868bc4036aa608cb8f8fe1b3f" target="id-9123f2903be3489a8050041bb228d842" archimateRelationship="id-795e031f309844e69e6a1c20b64f5b5a"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-88f04db2563844b4afe8096f10497558" archimateElement="id-2a1f2097b7b64e9a8c7599ce8d868497">
-          <bounds x="276" y="204" width="161" height="55"/>
+          <bounds x="151" y="198" width="161" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9902bc3b21d34df8880078f21e98fc8a" source="id-88f04db2563844b4afe8096f10497558" target="id-a58cc8dc44e14aa9bec96b0ac84b753f" archimateRelationship="id-b8190c0598f64f7ba62e8267d1a1d98e"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b963837efc724821ae59611bbe3154ac" source="id-88f04db2563844b4afe8096f10497558" target="id-9123f2903be3489a8050041bb228d842" archimateRelationship="id-158d6dd6a304449e84d19bfbc7a72f50"/>
         </child>

@@ -12,6 +12,10 @@ Figure 4: Business Goals Associated with the Driver Profitability:
 - [Video04_link](https://youtu.be/VbRfkwKFORY)
 - ![view04](./Phase_A_Architecture_Vision/04%20Business%20Goals%20Associated%20with%20the%20Driver%20Profitability.jpg)
 
+- [Archi_Model_04 with v3.1](./Phase_A_Architecture_Vision/04_Business_Goals_associated_with_Goal-v3.1.archimate)
+- [Video04 v3.1 Link](https://youtu.be/KWDpTVOi2HU)
+- ![view04_v3.1](./Phase_A_Architecture_Vision/04%20Business%20Goals%20Associated%20with%20the%20Driver%20Profitability_v3.1.jpg)
+
 Figure 5: Principles View (Fragment)
 
 - [Archi_Model_05](./Phase_A_Architecture_Vision/05_Principles_View.archimate)
