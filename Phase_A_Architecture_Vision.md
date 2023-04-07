@@ -28,6 +28,12 @@ Figure 6: Goal Refinement View for Rationalization Strategy
 - [Video06_link](https://youtu.be/G2w-xpTHmOw)
 - ![view06](Phase_A_Architecture_Vision/06%20Goal%20Refinement.jpg)
 
+Phase A: Meta Model Summary So Far
+
+- [Archi_MetaModel for Phase A So Far](./Phase_A_Architecture_Vision/PhaseA_Metamodel.archimate)
+- [Video-Build-Meta-Model](https://youtu.be/v0YQ7INVmo0)
+- ![PhaseAMetaModel](./Phase_A_Architecture_Vision/Phase_A_Meta-Model.jpg)
+
 Figure 7: Strategy View for Digital Customer Intimacy Strategy
 
 Figure 8: Solution Concept View
