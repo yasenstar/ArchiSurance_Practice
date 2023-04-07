@@ -25,7 +25,7 @@ Figure 5: Principles View (Fragment)
 Figure 6: Goal Refinement View for Rationalization Strategy
 
 - [Archi_Model_06](./Phase_A_Architecture_Vision/06_Goal_Refinement.archimate)
-- [Video06_link]()
+- [Video06_link](https://youtu.be/G2w-xpTHmOw)
 - ![view06](Phase_A_Architecture_Vision/06%20Goal%20Refinement.jpg)
 
 Figure 7: Strategy View for Digital Customer Intimacy Strategy
