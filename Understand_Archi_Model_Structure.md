@@ -32,3 +32,8 @@ Let's use following steps to examine the model file structure:
 6. Adjust element looks and feels in the view
 7. Add relationship between element
 8. Add properties to relationship
+
+Check detail demo in below two videos:
+
+- [Archi - understand model file structure (part 1)](https://youtu.be/klrG1XouRfY)
+- [Archi - understand model file structure (part 2)](https://youtu.be/NmBGhDpWcTg)
