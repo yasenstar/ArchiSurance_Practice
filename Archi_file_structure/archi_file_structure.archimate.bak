@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="understand_file_structure" id="id-bb3ed8f62cf84f8b96bfb9e38d922f39" version="5.0.0">
+  <folder name="Strategy" id="id-8f722bd1a9fd49f78f20c91f4c4e81af" type="strategy">
+    <folder name="My_company_capability" id="id-dbc685a6fa254922ad87300f6f8def04">
+      <element xsi:type="archimate:Capability" name="Sales_Management" id="id-0b0a9e3b686442e09d64ceacf20a4c5c">
+        <documentation>Manage end to end sales activities</documentation>
+        <property key="Cap_Level" value="Level 1"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Quote_Management" id="id-fe288d5687ee4e5bab1a8cd9ff217357">
+        <documentation>Quote Management activity</documentation>
+        <property key="Cap_Level" value="Level 2"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Lead_Management" id="id-d9f1663c927648568f0e6f87803c3e6a">
+        <property key="Cap_Level" value="Level 2"/>
+      </element>
+    </folder>
+  </folder>
+  <folder name="Business" id="id-e6bb133afe714f7fbd091e886caf0282" type="business"/>
+  <folder name="Application" id="id-04c8ebca404a413ca669c2f1f69a0c25" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-1cb1d1d60f6644da83b340f599cf766e" type="technology"/>
+  <folder name="Motivation" id="id-446555ccb618489ba9953b0046a3f9e9" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-486e209a1f9a4f849657423fc10c2deb" type="implementation_migration"/>
+  <folder name="Other" id="id-49a42eac066c4cfe9de5630064bb776e" type="other"/>
+  <folder name="Relations" id="id-86ae830123a9448d8d14dbc5ab0207e5" type="relations">
+    <element xsi:type="archimate:CompositionRelationship" id="id-5d5e7f6d4f3b4f478159f6f5aea5e0b7" source="id-0b0a9e3b686442e09d64ceacf20a4c5c" target="id-d9f1663c927648568f0e6f87803c3e6a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-24bd9abb12a04aeca2a048649b6cbb97" source="id-0b0a9e3b686442e09d64ceacf20a4c5c" target="id-fe288d5687ee4e5bab1a8cd9ff217357"/>
+  </folder>
+  <folder name="Views" id="id-3620e77d310e4923b5374a399beb7393" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Xiaoqi_View" id="id-bd513ec8ffee48f399b1ef048665186c">
+      <child xsi:type="archimate:DiagramObject" id="id-8d35a7015f0a48fe85071663651beacc" font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fontColor="#804000" fillColor="#80ffff" archimateElement="id-0b0a9e3b686442e09d64ceacf20a4c5c">
+        <bounds x="253" y="72" width="200" height="60"/>
+        <feature name="iconColor" value="#ff0000"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-adb6b99c38bc47a78f6bdb40ad713ad2" source="id-8d35a7015f0a48fe85071663651beacc" target="id-ffff40df73264fccab2e4a74e44ee5a7" archimateRelationship="id-5d5e7f6d4f3b4f478159f6f5aea5e0b7"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-0147864681ea41a797852967f3261a96" source="id-8d35a7015f0a48fe85071663651beacc" target="id-65b6daabab27418ba873a7260ab8783b" archimateRelationship="id-24bd9abb12a04aeca2a048649b6cbb97"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-ffff40df73264fccab2e4a74e44ee5a7" targetConnections="id-adb6b99c38bc47a78f6bdb40ad713ad2" archimateElement="id-d9f1663c927648568f0e6f87803c3e6a">
+        <bounds x="168" y="264" width="169" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-65b6daabab27418ba873a7260ab8783b" targetConnections="id-0147864681ea41a797852967f3261a96" archimateElement="id-fe288d5687ee4e5bab1a8cd9ff217357">
+        <bounds x="372" y="264" width="169" height="55"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
