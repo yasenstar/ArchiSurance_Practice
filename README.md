@@ -2,6 +2,12 @@
 
 Welcome, I'll try to record videos for those views modelings soon and keep adding here...
 
+First, let's talk some basic parts about Archi tool:
+
+1. [Understand the Archi Tool Model File Structure](./Understand_Archi_Model_Structure.md)
+2. [jArchi Scripting plug-in]()
+3. [Import feature in Archi]()
+
 Thanks for comment from [Marc Lankhorst](https://www.linkedin.com/in/marclankhorst/), OpenGroup publish the ArchiMate Exchange Formate for this ArchiSurance as well as ArchiMetal, which you can impoort to the Archi model and see the out-of-box elements and views:
 
 - [ArchiSurance Case Study 3.1, ArchiMate Model Exchange File Format](https://publications.opengroup.org/y194m)
