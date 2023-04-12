@@ -36,6 +36,10 @@ Phase A: Meta Model Summary So Far
 
 Figure 7: Strategy View for Digital Customer Intimacy Strategy
 
+- [Archi_Model_07](./Phase_A_Architecture_Vision/07_LongTermStrategy.archimate)
+- [Video-Long-Term-Strategy](https://youtu.be/6FdtyHRMttw)
+- ![view07](./Phase_A_Architecture_Vision/07%20Strategy%20View%20-%20Long%20Term.jpg)
+
 Figure 8: Solution Concept View
 
 ## Phase B: Business Architecture
