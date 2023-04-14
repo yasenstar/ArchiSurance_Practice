@@ -46,6 +46,13 @@ Figure 7: Strategy View for Digital Customer Intimacy Strategy
 
 Figure 8: Solution Concept View
 
+- [Archi_Model_08](./Phase_A_Architecture_Vision/08_SolutionConceptView.archimate)
+- [Solution_Concept_View](https://youtu.be/skUYGaJGhKQ)
+- ![view08](./Phase_A_Architecture_Vision/08%20Solution%20Concept%20View.jpg)
+
+
+Figure 8: Solution Concept View
+
 ## Phase B: Business Architecture
 
 ## Phase C: Information Systems Architectures (Application)
