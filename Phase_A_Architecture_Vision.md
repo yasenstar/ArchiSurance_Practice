@@ -42,7 +42,7 @@ Figure 7: Strategy View for Digital Customer Intimacy Strategy
 
 - [Archi_Model-07_without-Junction](./Phase_A_Architecture_Vision/07%20Strategy%20View%20-%20Long%20Term-withoutJunction.jpg)
 - [Video About Junction Relation](https://youtu.be/KJ5kl8YbLbY)
-- ![view07-without-Junction](./Phase_A_Architecture_Vision/07_LongTermStrategy-noJunction.archimate)
+- ![view07-without-Junction](./Phase_A_Architecture_Vision/07%20Strategy%20View%20-%20Long%20Term-withoutJunction.jpg)
 
 Figure 8: Solution Concept View
 
