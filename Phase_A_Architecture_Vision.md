@@ -56,7 +56,7 @@ Phase A: Meta-Model Updates
 - [TOGAF ADM Phase A Meta-Model (Modeling Pattern)](https://youtu.be/IndW2ooYEP8)
 - ![Phase A Meta-Model View](./TOGAF_ADM_Meta-Model/TOGAF%20ADM%20Phase%20A%20-%20Modeling%20Pattern.jpg)
 
-Figure 8: Solution Concept View
+### Phase A: [Finished Model](./Phase_A_Architecture_Vision/PhaseA_Finished.archimate)
 
 ## Phase B: Business Architecture
 
