@@ -56,14 +56,9 @@ Phase A: Meta-Model Updates
 - [TOGAF ADM Phase A Meta-Model (Modeling Pattern)](https://youtu.be/IndW2ooYEP8)
 - ![Phase A Meta-Model View](./TOGAF_ADM_Meta-Model/TOGAF%20ADM%20Phase%20A%20-%20Modeling%20Pattern.jpg)
 
-### Phase A: [Finished Model](./Phase_A_Architecture_Vision/PhaseA_Finished.archimate)
+---
+### Here is Phase A: [Finished Model](./Phase_A_Architecture_Vision/PhaseA_Finished.archimate)
 
-## Phase B: Business Architecture
+---
 
-## Phase C: Information Systems Architectures (Application)
-
-## Phase C: Information Systems Architectures (Data)
-
-## Phase D: Technology Architecture
-
-## Phsae E & F: Opportunities & Solutions and Migration Planning
+Completed at 2023-04-16

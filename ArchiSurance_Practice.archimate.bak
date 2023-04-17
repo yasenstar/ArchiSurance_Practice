@@ -631,6 +631,27 @@
         <bounds y="84" width="349" height="157"/>
         <feature name="labelExpression" value="$view{documentation}"/>
       </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-1d7800bb170d42b8bedd762805d9d870" model="id-54d7d48035bd4cb98521006e0e4c2a79">
+        <bounds x="348" y="84" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-1321e3c0c645413a90c10493fc26f784" model="id-a187c7fefcbd4e8b9403377cab9277ef">
+        <bounds x="564" y="84" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-b22faf7da1e640b6b3da215ebde8db9d" model="id-466703bc6d0e42c09037bb53a6f905a0">
+        <bounds x="780" y="84" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-b5bb584a79bf4382bdb61be6484ef7cc" model="id-f4688f312619422594a58673dfbbe371">
+        <bounds x="348" y="168" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-ebcc0a65aaad4aa6b60a482a9519557d" model="id-70b8113c4d76419b8fa8a6658f8d236f">
+        <bounds x="564" y="168" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-842b080356f0435a8ec29f5ba746975e" model="id-2225b06e9a0d477c96b843cdbc19d4b5">
+        <bounds x="780" y="168" width="181" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramModelReference" id="id-04aaca82c0b942489dce7e40634c297e" model="id-c7c26d7b36cb42ccaf8fda65a2579db3">
+        <bounds x="348" y="252" width="181" height="55"/>
+      </child>
       <documentation>List of Figures&#xD;
 =========&#xD;
 03: Stakeholder View&#xD;

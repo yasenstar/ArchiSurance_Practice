@@ -207,6 +207,9 @@
         <child xsi:type="archimate:DiagramObject" id="id-b34aa45a97824571a099b3fd7d3306db" targetConnections="id-a0555300699d4dff98a6ae2faa31d685 id-6e5866c847594cbf8ffefad511f3e242 id-89f4a2feb7514fdeb78ad2bb6d2f1d23" archimateElement="id-145b2526247f4f02bfef814812dc92d9">
           <bounds x="528" y="120" width="120" height="55"/>
         </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-d2770f3283f942c58fecd0f80fb6ad50" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="786" y="36" width="120" height="55"/>
+        </child>
         <property key="Last Update" value="2023-04-01"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
@@ -250,6 +253,9 @@
         <child xsi:type="archimate:DiagramObject" id="id-b4b6a397e0224f48a46c90b0bc45bf75" targetConnections="id-0956816dd85745088db73fe0e220d8c3" archimateElement="id-04ae8d4a65a942bc87193162bfbdf710">
           <bounds x="325" y="336" width="120" height="55"/>
         </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-ca16b47b72884965bf5285c993cd9d03" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="804" y="36" width="120" height="55"/>
+        </child>
         <property key="Last Update" value="2023-04-01"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
@@ -276,6 +282,9 @@
           <bounds x="151" y="198" width="161" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9902bc3b21d34df8880078f21e98fc8a" source="id-88f04db2563844b4afe8096f10497558" target="id-a58cc8dc44e14aa9bec96b0ac84b753f" archimateRelationship="id-b8190c0598f64f7ba62e8267d1a1d98e"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b963837efc724821ae59611bbe3154ac" source="id-88f04db2563844b4afe8096f10497558" target="id-9123f2903be3489a8050041bb228d842" archimateRelationship="id-158d6dd6a304449e84d19bfbc7a72f50"/>
+        </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-962856e53a7e405f8eb026562f36ca3e" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="681" y="44" width="120" height="55"/>
         </child>
         <property key="Last Update" value="2023-04-03"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
@@ -357,6 +366,9 @@
           <bounds x="582" y="479" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b707b5df0ed341848fa4467a08b25467" source="id-e370ed39d51d464caf3219b0e5079fd9" target="id-7787e9af97c5415db63a3c762b2b93aa" archimateRelationship="id-713612f0750f4c01931fb5d44215fe09"/>
         </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-68b82134f877479898ea2282845e7246" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="803" y="39" width="120" height="55"/>
+        </child>
         <property key="Last Update" value="2023/4/5"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
@@ -430,6 +442,9 @@
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-92bddb23362e42659bbdd59e119bbf88" targetConnections="id-a4705e9c683c46b7bd86d4be8204af7a" archimateElement="id-8ef1fdc0777a4403a4801d86abb0ea80">
           <bounds x="666" y="540" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-2038487b337d4be3b393f6b946ac6fdd" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="804" y="54" width="120" height="55"/>
         </child>
         <property key="Last Update" value="2023-04-06"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
@@ -505,6 +520,9 @@
             <bendpoint startX="156" startY="-3" endX="-30" endY="105"/>
           </sourceConnection>
         </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-519f1ce229b94e68ba7c25570dff5997" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="774" y="51" width="120" height="55"/>
+        </child>
         <property key="Last Update" value="2023/4/12"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
@@ -570,6 +588,9 @@
         <child xsi:type="archimate:DiagramObject" id="id-a25526f7a53142b6a7c75152ba11537b" archimateElement="id-022bd5dbd524413e85a5d6fab51fdde5">
           <bounds x="59" y="336" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b97ccd0758d4455286ceaa808e34d9a0" source="id-a25526f7a53142b6a7c75152ba11537b" target="id-b5e80b547cbd4751ad3b7b68decf795a" archimateRelationship="id-a779a35475c2494d8505765a739077d8"/>
+        </child>
+        <child xsi:type="archimate:DiagramModelReference" id="id-f09630b782d74d8b947fce7b8fbb141f" model="id-3b96fce92d734feb8eeaf90e230e8d0c">
+          <bounds x="816" y="36" width="120" height="55"/>
         </child>
         <property key="Last Update" value="2023/4/14"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
