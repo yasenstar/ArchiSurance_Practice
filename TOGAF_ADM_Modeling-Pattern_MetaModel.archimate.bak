@@ -213,7 +213,7 @@
         <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:Note" id="id-35720d429a6c47d9b1b0c6c3a096b9b8" textAlignment="1" borderType="2">
-        <bounds x="528" y="420" width="211" height="47"/>
+        <bounds x="610" y="461" width="211" height="47"/>
         <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-b514a10d393d43898bac38e380cb4b05" targetConnections="id-945c95867adc45238d3c074033fa16b8 id-fa3a615a1ef44b2da3ec059f524beadb" archimateElement="id-156d09ec071d437abe7f2efa84e612af">
@@ -228,8 +228,6 @@
         <bounds x="167" y="109" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-fa3a615a1ef44b2da3ec059f524beadb" source="id-9ee008c26a544c2caa7d40ea49e2fa09" target="id-b514a10d393d43898bac38e380cb4b05" archimateRelationship="id-b34d028c6e084ea495b82c903dd463e8"/>
       </child>
-      <property key="Last Update" value="2023/4/16"/>
-      <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
   </folder>
 </archimate:model>
