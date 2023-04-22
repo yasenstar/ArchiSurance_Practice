@@ -681,10 +681,37 @@ Capability Realization .........................................................
           <feature name="labelExpression" value="$view{name}"/>
         </child>
         <child xsi:type="archimate:Note" id="id-410d5f0b0cce4ead8fe1a831a3c45ece" textAlignment="1" borderType="2">
-          <bounds x="624" y="456" width="211" height="47"/>
+          <bounds x="528" y="456" width="211" height="47"/>
           <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
         </child>
-        <property key="Last Update" value="2023-03-31"/>
+        <child xsi:type="archimate:DiagramObject" id="id-c7c67cd103bc4d42bad96b04c9ceee4f" archimateElement="id-ec01b489d3cc4745b18deaee37596c5b">
+          <bounds x="144" y="96" width="565" height="325"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9800875e024a4abda78068a510349f37" source="id-c7c67cd103bc4d42bad96b04c9ceee4f" target="id-35398680ad5343c98cbd26bd17223821" archimateRelationship="id-3f3548de4a774b6f91e6ef37797dc3d2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5bb3c89f93984bd38156df216ee5c1ca" source="id-c7c67cd103bc4d42bad96b04c9ceee4f" target="id-03e554c62e3d4c938fd56f3082ed6f20" archimateRelationship="id-9d618b1d551a46c8a5923f67af307008"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bac23fc063dd4fbeba9f77974d6d1d31" source="id-c7c67cd103bc4d42bad96b04c9ceee4f" target="id-47d60c225b9e4858ba189c904f4e101b" archimateRelationship="id-7bb9ad7c0c4a42d1945996cbc7c3e08d"/>
+          <child xsi:type="archimate:DiagramObject" id="id-03e554c62e3d4c938fd56f3082ed6f20" targetConnections="id-5bb3c89f93984bd38156df216ee5c1ca" archimateElement="id-2ac6b5a7c90e45359811a693e40fca1d">
+            <bounds x="36" y="48" width="493" height="55"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-35398680ad5343c98cbd26bd17223821" targetConnections="id-9800875e024a4abda78068a510349f37" archimateElement="id-75daffff269c4f65909e8d228245107a">
+            <bounds x="36" y="120" width="493" height="109"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-b7168f58dd4a45f6bc54399bd7c6a655" source="id-35398680ad5343c98cbd26bd17223821" target="id-98fb9e5037034bac93feea41be9313bd" archimateRelationship="id-5cba901961f740329c382dfdc94d1252"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-447f469f42864aeab6a4d8bbaee05dc6" source="id-35398680ad5343c98cbd26bd17223821" target="id-1a5c40439f314b5f92261976005940b0" archimateRelationship="id-303ecf165ed841c79f7458290e6943a1"/>
+            <sourceConnection xsi:type="archimate:Connection" id="id-b54fe80b0fcb472d81692aa702e7a178" source="id-35398680ad5343c98cbd26bd17223821" target="id-b92216e886c7440da2cc732643d4ec15" archimateRelationship="id-ee1e7df4342247c8a172fb36d3475a6f"/>
+            <child xsi:type="archimate:DiagramObject" id="id-1a5c40439f314b5f92261976005940b0" targetConnections="id-447f469f42864aeab6a4d8bbaee05dc6" archimateElement="id-4d9fb708d29148879cfc75173bc14d28">
+              <bounds x="53" y="36" width="120" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-98fb9e5037034bac93feea41be9313bd" targetConnections="id-b7168f58dd4a45f6bc54399bd7c6a655" archimateElement="id-7f9aaca9874541028183e3ec5fea4901">
+              <bounds x="312" y="36" width="120" height="55"/>
+            </child>
+            <child xsi:type="archimate:DiagramObject" id="id-b92216e886c7440da2cc732643d4ec15" targetConnections="id-b54fe80b0fcb472d81692aa702e7a178" archimateElement="id-e32cb747336a4d82b1c84f8a15b5af6a">
+              <bounds x="185" y="36" width="120" height="55"/>
+            </child>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-47d60c225b9e4858ba189c904f4e101b" targetConnections="id-bac23fc063dd4fbeba9f77974d6d1d31" archimateElement="id-04c0ce5cab684488889f6ead81920128">
+            <bounds x="36" y="252" width="493" height="55"/>
+          </child>
+        </child>
+        <property key="Last Update" value="2023/4/16"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
     </folder>
