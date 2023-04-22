@@ -16,3 +16,9 @@
 - ![Figure 11](Phase_B_Business_Architecture/Figure-11_Value-Stream.jpg)
 
 ---
+
+## Figure 12: Capability Model
+
+- [Archi_Model_12](./Phase_B_Business_Architecture/12-Capability-Model.archimate)
+- [Figure 12 Video](https://youtu.be/bZFEjAW1_XI)
+- ![Figure 12](Phase_B_Business_Architecture/Figure-12_Capability-Model-View.jpg)
