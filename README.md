@@ -19,6 +19,12 @@ Note: from 2023-04-05, the modeling practice will base on ArchiSurance Case Stud
 
 ---
 
+View HTML Exported Report from Github page here: https://yasenstar.github.io/ArchiSurance_Practice/
+
+Two Export: 1. [ArchiSurance_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_HTML/index.html), 2. [ArchiSurance_Pattern_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_Pattern_HTML/index.html)
+
+---
+
 ![archi_logo](img/Archi_Logo.png)
 
 Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)

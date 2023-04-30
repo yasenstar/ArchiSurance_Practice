@@ -53,6 +53,7 @@
     <element xsi:type="archimate:CompositionRelationship" id="id-e7920de8b0b6491496de781fbed66a84" source="id-156d09ec071d437abe7f2efa84e612af" target="id-156d09ec071d437abe7f2efa84e612af"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-b34d028c6e084ea495b82c903dd463e8" source="id-77bbacd169a14a04ba7f8f8108a0f803" target="id-156d09ec071d437abe7f2efa84e612af"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-d555b8aff6dd47fb96cf45f08aef73ee" source="id-3d8d946734224cbab33cc88b61ac3a71" target="id-3d8d946734224cbab33cc88b61ac3a71"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-110e2ef4e0a24c4280181c3f38595d71" source="id-3d8d946734224cbab33cc88b61ac3a71" target="id-6ad73bc80be8422aa1f0d8c6c1462fdb"/>
   </folder>
   <folder name="Views" id="id-5d3376ef32ce489ea8fb527a5b550fb6" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-08cf0f53d7494cc0aa32f89c4353c69e">
@@ -239,9 +240,10 @@
           <bendpoint startX="100" endX="100"/>
         </sourceConnection>
         <sourceConnection xsi:type="archimate:Connection" id="id-afa0338525234cdb8be51560e177ec5c" source="id-1565fcde7f9a4759b07c226cb7bbb94e" target="id-8b355dc098c04553b35129a5afdc317c" archimateRelationship="id-91b67702e1bb49e4978007fd13776e2e"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6b595a85c33142c09a3062b251270e55" source="id-1565fcde7f9a4759b07c226cb7bbb94e" target="id-a026d8ab7dee45878b00e8656b739f7d" archimateRelationship="id-110e2ef4e0a24c4280181c3f38595d71"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-a026d8ab7dee45878b00e8656b739f7d" archimateElement="id-6ad73bc80be8422aa1f0d8c6c1462fdb">
-        <bounds x="164" y="379" width="120" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-a026d8ab7dee45878b00e8656b739f7d" targetConnections="id-6b595a85c33142c09a3062b251270e55" archimateElement="id-6ad73bc80be8422aa1f0d8c6c1462fdb">
+        <bounds x="576" y="216" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8b355dc098c04553b35129a5afdc317c" targetConnections="id-afa0338525234cdb8be51560e177ec5c" archimateElement="id-f16c13fe78e64786b4bf87bb187419c1">
         <bounds x="164" y="250" width="120" height="55"/>
@@ -252,7 +254,7 @@
       <child xsi:type="archimate:DiagramObject" id="id-3522f1ba503644b59c4775e6e60b69d4" archimateElement="id-c94d5fd99bed4ba9844fa10da529afb5">
         <bounds x="486" y="379" width="120" height="55"/>
       </child>
-      <property key="Last Update" value="2023/4/21"/>
+      <property key="Last Update" value="2023/4/30"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
   </folder>
