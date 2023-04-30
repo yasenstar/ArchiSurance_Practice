@@ -33,3 +33,10 @@
 
 ---
 
+## Figure 14: Business Function View (Baseline)
+
+- [Archi_Model_14](./Phase_B_Business_Architecture/14-Business-Function(Baseline).archimate)
+- [Figure 14 Video](https://youtu.be/mwkUkHeiD9g)
+- ![Figure 14](Phase_B_Business_Architecture/Figure-14_Busienss_Function_View(Baseline).jpg)
+
+---

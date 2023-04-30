@@ -96,6 +96,11 @@
       <element xsi:type="archimate:BusinessActor" name="Homeowner's &amp; Travel Back Office" id="id-4d9fb708d29148879cfc75173bc14d28"/>
       <element xsi:type="archimate:BusinessActor" name="Legal Expense Back Office" id="id-e32cb747336a4d82b1c84f8a15b5af6a"/>
       <element xsi:type="archimate:BusinessActor" name="Auto Back Office" id="id-7f9aaca9874541028183e3ec5fea4901"/>
+      <element xsi:type="archimate:BusinessActor" name="Client" id="id-970ab09789e246f9822180ece1416a63"/>
+      <element xsi:type="archimate:BusinessActor" name="Bank" id="id-1b3feaf0c2d840a4a97bf5ae7b563106"/>
+    </folder>
+    <folder name="Business_Function" id="id-23899dd4f94c45368e3a1eb658e16093">
+      <element xsi:type="archimate:BusinessFunction" name="Claims Submission" id="id-fefab312c8fc4e0f8dee08b637fe81ce"/>
     </folder>
   </folder>
   <folder name="Application" id="id-e7873fa99c264b74a8adca54f804ca99" type="application"/>
@@ -1107,7 +1112,7 @@ Capability Realization .........................................................
           <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e43f77a4a34c486783cf91b764f3bbb0" archimateElement="id-81f31b93e64f4d6faf6ded97a4d21fc2">
-          <bounds x="618" y="492" width="440" height="163"/>
+          <bounds x="456" y="468" width="440" height="163"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-da42399a089644a1bb4169399e481e9e" source="id-e43f77a4a34c486783cf91b764f3bbb0" target="id-07483fca498b4966be10f23804e8ff0b" archimateRelationship="id-ce3237f8b1cc4ff69fa6e72296905ce8"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-088a44bc63de4417b5100bfe98980aa1" source="id-e43f77a4a34c486783cf91b764f3bbb0" target="id-7617c76e9eb540a69e71dae029e24bda" archimateRelationship="id-3e5fd4bb75fb405da7299faaad84a539"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8ffa0b033ef245c1b24b07eef89daf13" source="id-e43f77a4a34c486783cf91b764f3bbb0" target="id-f7c3d768706448c587a3092763bafd9b" archimateRelationship="id-4000c4721409462ea1fc1c66115c2732"/>
@@ -1131,7 +1136,7 @@ Capability Realization .........................................................
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b1e735eab1be43bd9c05ce2dbe234019" archimateElement="id-9c8d3a0313e94cdd802cad86cc8d1463">
-          <bounds x="276" y="120" width="169" height="163"/>
+          <bounds x="288" y="105" width="169" height="163"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-2996496f76a145518528213ea5c194f6" source="id-b1e735eab1be43bd9c05ce2dbe234019" target="id-27b1cbfd9e314dfa9ce787039cb7c9f4" archimateRelationship="id-7f300667b30e44da9d9ab924174f9714"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-a05bdd0ffb2142f8adb2030029b4c855" source="id-b1e735eab1be43bd9c05ce2dbe234019" target="id-b46e4c661c45484e9c75aa2ac6d8ec66" archimateRelationship="id-f8ce1c8d1639450fa05c6e3948d7fbd4"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-f90d0b5c1d384ebdb61d210ecf3c5f1d" source="id-b1e735eab1be43bd9c05ce2dbe234019" target="id-56ca6bc70dcf4f9c86a3b9a1259edb25" archimateRelationship="id-2c746782e43443ce86f32b47c2a470cd"/>
@@ -1143,7 +1148,7 @@ Capability Realization .........................................................
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-60b4f1fb030e4d02881291cda54dd4c6" archimateElement="id-d03cfe3302cf44d8a8dfdcb2e3182450">
-          <bounds x="672" y="120" width="422" height="181"/>
+          <bounds x="492" y="87" width="422" height="181"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-24daffcefc1e46dfbb0a1ec876821c4a" source="id-60b4f1fb030e4d02881291cda54dd4c6" target="id-bdc544ae9ff94739b51dd710391ad0a0" archimateRelationship="id-f258b5405a0b4e9eaa24737576894337"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-1f1420d3d74447c5bbe7c3007145f899" source="id-60b4f1fb030e4d02881291cda54dd4c6" target="id-b61fd4de80d243f7ac63fabfb2bcd006" archimateRelationship="id-00c91698269941628d070c95b0dd737a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-34fd209acf5d4661bb11fa8ce526e993" source="id-60b4f1fb030e4d02881291cda54dd4c6" target="id-c6612f2b51b040d094385f93343b49f6" archimateRelationship="id-6d6a0f05a5104dee87339db8dab57f7c"/>
@@ -1167,7 +1172,7 @@ Capability Realization .........................................................
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1e9e159b022140c98b993a0f684a03df" archimateElement="id-c4be40fce29c4895aac6b4f3136e3fac">
-          <bounds x="84" y="120" width="169" height="163"/>
+          <bounds x="84" y="105" width="169" height="163"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8838da25684d401eb274280a3c535077" source="id-1e9e159b022140c98b993a0f684a03df" target="id-2c7c9a15857b414381025b526e113940" archimateRelationship="id-a167b15eacf048cea842f05fedf2dbbf"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-c69aef3fdf3449b4a6ac16a013fb2ea5" source="id-1e9e159b022140c98b993a0f684a03df" target="id-93ac0e8865574849894573aa53999b78" archimateRelationship="id-ddeae29b7564404ba8d3887d5e6cbb2f"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-ec97083049c14f28b1098957ac943548" source="id-1e9e159b022140c98b993a0f684a03df" target="id-bc9fde47eff2423b9721dfa036bb6692" archimateRelationship="id-a9d22ca8a03b4a5ab05877ebadca31c3"/>
@@ -1179,7 +1184,7 @@ Capability Realization .........................................................
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-934a739697a94c4c936375503446091b" archimateElement="id-ab2df539597f4ae08defc2f6f5cd7ed1">
-          <bounds x="468" y="120" width="180" height="163"/>
+          <bounds x="228" y="468" width="180" height="163"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-99257413186a49d195f0ba2260a36703" source="id-934a739697a94c4c936375503446091b" target="id-5b4bb23b8eef4fdd856e0ecdc2d47697" archimateRelationship="id-deacc5228907414f9112f2acba708136"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-34faf2080001492c9770d8e4c95db657" source="id-934a739697a94c4c936375503446091b" target="id-14f1078a912d4e6e8e37512d9a371e6f" archimateRelationship="id-370463bd229e40ffae6ab48f25d39278"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-190ab87a654949628f0fb13cca6db0e8" source="id-934a739697a94c4c936375503446091b" target="id-56ca6bc70dcf4f9c86a3b9a1259edb25" archimateRelationship="id-55882930591c4aeabcbbec4afc3afa3b"/>
@@ -1191,7 +1196,7 @@ Capability Realization .........................................................
           </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-838bcfd05a5048319b75cb3f27c798eb" archimateElement="id-7206f0857fb74ccaa3d391028e06d14e">
-          <bounds x="180" y="336" width="674" height="121"/>
+          <bounds x="96" y="312" width="674" height="121"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7a34adcd0e364787b73492b9b2a5683e" source="id-838bcfd05a5048319b75cb3f27c798eb" target="id-bc9fde47eff2423b9721dfa036bb6692" archimateRelationship="id-d8da081f773b4629a3d321a0cde91f1a"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9ff07c793fae404fb677f977bac03534" source="id-838bcfd05a5048319b75cb3f27c798eb" target="id-56ca6bc70dcf4f9c86a3b9a1259edb25" archimateRelationship="id-e0456b25e08e448482e35a6c620211c0"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-2558021b28a34cdb82f3bab60d564c78" source="id-838bcfd05a5048319b75cb3f27c798eb" target="id-cb272603f4094af88f54dc47a4e67965" archimateRelationship="id-c5641c743ade416ea54cb9db96ca891d"/>
@@ -1213,6 +1218,33 @@ Capability Realization .........................................................
           </child>
         </child>
         <property key="Last Update" value="2023/4/30"/>
+        <property key="Last Updated by" value="Xiaoqi Zhao"/>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Figure-14_Busienss_Function_View(Baseline)" id="id-7fa8450941d347deb33dea1bd970c958">
+        <child xsi:type="archimate:Note" id="id-3c859a1b5fb7428ebbd34b637bedbfa5" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+          <bounds x="156" y="36" width="541" height="37"/>
+          <feature name="labelExpression" value="$view{name}"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-67dacc7afc944313901638f70c865845" textAlignment="1" borderType="2">
+          <bounds x="624" y="456" width="211" height="47"/>
+          <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cc624813b5934937a7fcd7f6b774bace" archimateElement="id-75daffff269c4f65909e8d228245107a">
+          <bounds x="186" y="573" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-a4924989a78641c9960e931d8f97ea17" archimateElement="id-1b3feaf0c2d840a4a97bf5ae7b563106">
+          <bounds x="336" y="573" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-aa162c068c214132bc96fcbbceea16d8" archimateElement="id-970ab09789e246f9822180ece1416a63">
+          <bounds x="486" y="573" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d8e9fee7f9744bc0927b88293c8ca763" archimateElement="id-2ac6b5a7c90e45359811a693e40fca1d">
+          <bounds x="186" y="673" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-3368932d37674f969ca98f76a5300e09" archimateElement="id-04c0ce5cab684488889f6ead81920128">
+          <bounds x="336" y="673" width="120" height="55"/>
+        </child>
+        <property key="Last Update" value="2023-03-31"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
     </folder>
