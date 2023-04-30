@@ -252,7 +252,7 @@
       <child xsi:type="archimate:DiagramObject" id="id-3522f1ba503644b59c4775e6e60b69d4" archimateElement="id-c94d5fd99bed4ba9844fa10da529afb5">
         <bounds x="486" y="379" width="120" height="55"/>
       </child>
-      <property key="Last Update" value="2023/4/16"/>
+      <property key="Last Update" value="2023/4/21"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
   </folder>

@@ -22,3 +22,14 @@
 - [Archi_Model_12](./Phase_B_Business_Architecture/12-Capability-Model.archimate)
 - [Figure 12 Video](https://youtu.be/bZFEjAW1_XI)
 - ![Figure 12](Phase_B_Business_Architecture/Figure-12_Capability-Model-View.jpg)
+
+---
+
+## Figure 13: Value Stream and Capability Cross-Mapping
+
+- [Archi_Model_13](./Phase_B_Business_Architecture/13-ValuaStream-Capability-Mapping.archimate)
+- [Figure 13 Video](https://youtu.be/kWLUo0TvYv0)
+- ![Figure 13](Phase_B_Business_Architecture/Figure-13_Value%20Stream%20-%20Capability%20Cross-Mapping.jpg)
+
+---
+
