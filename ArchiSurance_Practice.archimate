@@ -1766,7 +1766,7 @@ Capability Realization .........................................................
       <child xsi:type="archimate:DiagramModelReference" id="id-e89b056729af469aaa9c29bc2a65fae3" model="id-4c777cfb35e5430eb22a049483587600">
         <bounds x="576" y="312" width="181" height="55"/>
       </child>
-      <property key="Last Update" value="2023-03-31"/>
+      <property key="Last Update" value="2023/5/13"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="ArchiSurance Modeling Practice" id="id-7d7e5cdc6a9043be8add816e1f7dd0db">
