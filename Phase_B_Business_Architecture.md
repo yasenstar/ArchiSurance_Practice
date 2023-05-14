@@ -100,5 +100,9 @@
 
 ---
 
-## Phase B Modeling Patter
+## Phase B Modeling Pattern
 
+- [Phase B Pattern Video](https://youtu.be/1A7FuWlZc34)
+- ![Phase B Modeling Pattern](Phase_B_Business_Architecture/TOGAF%20ADM%20Phase%20B%20-%20Modeling%20Pattern.jpg)
+
+===End of Phase B===
