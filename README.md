@@ -2,6 +2,24 @@
 
 Welcome, I'll try to record videos for those views modelings soon and keep adding here...
 
+![archi_logo](img/Archi_Logo.png)
+
+Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)
+
+## [Phase A: Architecture Vision](./Phase_A_Architecture_Vision.md)
+
+## [Phase B: Business Architecture](Phase_B_Business_Architecture.md)
+
+## Phase C: Information Systems Architectures (Application)
+
+## Phase C: Information Systems Architectures (Data)
+
+## Phase D: Technology Architecture
+
+## Phsae E & F: Opportunities & Solutions and Migration Planning
+
+---
+
 First, let's talk some basic parts about Archi tool:
 
 1. [Understand the Archi Tool Model File Structure](./Understand_Archi_Model_Structure.md)
@@ -22,24 +40,6 @@ Note: from 2023-04-05, the modeling practice will base on ArchiSurance Case Stud
 View HTML Exported Report from Github page here: https://yasenstar.github.io/ArchiSurance_Practice/
 
 Two Export: 1. [ArchiSurance_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_HTML/index.html), 2. [ArchiSurance_Pattern_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_Pattern_HTML/index.html)
-
----
-
-![archi_logo](img/Archi_Logo.png)
-
-Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Video_Link](https://youtu.be/34EXDp1sIQU)
-
-## [Phase A: Architecture Vision](./Phase_A_Architecture_Vision.md)
-
-## [Phase B: Business Architecture](Phase_B_Business_Architecture.md)
-
-## Phase C: Information Systems Architectures (Application)
-
-## Phase C: Information Systems Architectures (Data)
-
-## Phase D: Technology Architecture
-
-## Phsae E & F: Opportunities & Solutions and Migration Planning
 
 ---
 
