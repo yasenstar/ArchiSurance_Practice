@@ -75,3 +75,14 @@
 - ![Figure 18](Phase_B_Business_Architecture/Figure-18_Requirements_Realization.jpg)
 
 ---
+
+## Figure 19: Capabilities Gap Analysis
+
+- [Archi_Model_19](./Phase_B_Business_Architecture/19-Capability-Gap-Analysis.archimate)
+- [Figure 19 Video](https://youtu.be/50uv8k5AKCw)
+- ![Figure 19](Phase_B_Business_Architecture/Figure-19_Capabilities_Gap_Analysis.jpg)
+
+---
+
+## Figure 20: Resource Map View
+
