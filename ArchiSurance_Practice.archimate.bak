@@ -1485,6 +1485,9 @@ Capability Realization .........................................................
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
     </folder>
+    <folder name="Phase_C_IS_Architecture(Application)" id="id-7caa1ddd546741bbb97ef64e1438d49d"/>
+    <folder name="Phase_C_IS_Architecture(Data)" id="id-dae5fa46f54e4a08aa13cf3e295215e7"/>
+    <folder name="Phase_D_Technology_Architecture" id="id-50db8fab18b74b0c90fe0fa09553eed8"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-6f87df5883c34f23af7764de38ff5922">
       <child xsi:type="archimate:Note" id="id-d424b556613343e18bb748821630dc84" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
         <bounds x="156" y="36" width="541" height="37"/>
