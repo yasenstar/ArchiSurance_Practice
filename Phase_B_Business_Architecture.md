@@ -86,3 +86,19 @@
 
 ## Figure 20: Resource Map View
 
+- [Archi_Model_20](./Phase_B_Business_Architecture/20-Resource-Map-View.archimate)
+- [Figure 20 Video](https://youtu.be/GikSE_Yk8Ho)
+- ![Figure 20](Phase_B_Business_Architecture/Figure-20_Resource-Map-View.jpg)
+
+---
+
+## Figure 21: Resource Realization View
+
+- [Archi_Model_21](./Phase_B_Business_Architecture/21-Resource-Relaization-View.archimate)
+- [Figure 21 Video](https://youtu.be/m9p11RFT6QA)
+- ![Figure 21](Phase_B_Business_Architecture/Figure-21_Resource-Realization-View.jpg)
+
+---
+
+## Phase B Modeling Patter
+
