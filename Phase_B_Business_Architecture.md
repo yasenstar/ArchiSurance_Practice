@@ -41,8 +41,16 @@
 
 ---
 
+## Figure 15: Capability Realization
+
 - [Archi_Model_15](./Phase_B_Business_Architecture/15-Capability-Realization.archimate)
 - [Figure 15 Video](https://youtu.be/d2EtlOFF_14)
 - Without custom icon: ![Figure 15](Phase_B_Business_Architecture/Figure-15_Capabillity-Realization.jpg)
 - With custom icon: ![Figure 15](Phase_B_Business_Architecture/Figure-15_Capabillity-Realization-with-icon.jpg)
 - [Video: How to add custom icon](https://youtu.be/EkjLObo5cpc)
+
+---
+
+## Figure 16: Business Process View
+
+- [Archi_Model_16]()
