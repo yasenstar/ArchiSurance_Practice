@@ -69,3 +69,9 @@
 ---
 
 ## Figure 18: Requirements Realization View
+
+- [Archi_Model_18](./Phase_B_Business_Architecture/18-Requirement-Realization.archimate)
+- [Figure 18 Video](https://youtu.be/IhSUNsSG1As)
+- ![Figure 18](Phase_B_Business_Architecture/Figure-18_Requirements_Realization.jpg)
+
+---
