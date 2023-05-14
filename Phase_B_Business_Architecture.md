@@ -53,4 +53,12 @@
 
 ## Figure 16: Business Process View
 
-- [Archi_Model_16]()
+- [Archi_Model_16](./Phase_B_Business_Architecture/16-Business-Process.archimate)
+- [Figure 16 Video - Pattern Update](https://youtu.be/OWBMCTl_cfw)
+- [Figure 16 Video - Modeling](https://youtu.be/G7IvdEt3kw8)
+- ![Figure 16](Phase_B_Business_Architecture/Figure-16_Business-Process.jpg)
+
+---
+
+## Figure 17: Value Stream Relized by Business Process
+
