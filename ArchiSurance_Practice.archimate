@@ -1733,7 +1733,7 @@ Capability Realization .........................................................
         <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:Note" id="id-a74394a50b854a53b6e2c61f3ddbcd0e" textAlignment="1" borderType="2">
-        <bounds x="768" y="384" width="211" height="47"/>
+        <bounds x="684" y="19" width="211" height="47"/>
         <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
       </child>
       <child xsi:type="archimate:DiagramModelReference" id="id-97321f8655ba40f2af1d7e0a55a6b114" model="id-758fc793629847b692600d86d02c71d9">
