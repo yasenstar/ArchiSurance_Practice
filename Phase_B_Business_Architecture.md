@@ -62,3 +62,10 @@
 
 ## Figure 17: Value Stream Relized by Business Process
 
+- [Archi_Model_17](./Phase_B_Business_Architecture/17-ValueStream-BuzProcess.archimate)
+- [Figure 17 Video](https://youtu.be/7oQWMSLtnWs)
+- ![Figure 17](Phase_B_Business_Architecture/Figure-17_ValueStream_and_BusinessProcess_Mapping.jpg)
+
+---
+
+## Figure 18: Requirements Realization View
