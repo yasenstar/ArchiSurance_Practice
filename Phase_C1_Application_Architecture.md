@@ -1,7 +1,10 @@
-# Phase C: Information Systems Architectures (Application)
+# Phase C: Information System Architecture
 
-## Phase C: Information Systems Architectures (Data)
+## Figure 22: Application Cooperation
 
-## Phase D: Technology Architecture
+- [Archi_Model_22](./Phase_C_IS_Architecture_Application/22-Application-Cooperation.archimate)
+- [Figure 22 Video](https://youtu.be/tDn6aAQz5Ho)
+- ![Figure 22](./Phase_C_IS_Architecture_Application/Figure22_Application-Coorperation.jpg)
 
-## Phsae E & F: Opportunities & Solutions and Migration Planning
+---
+

@@ -10,7 +10,7 @@ Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Vi
 
 ## [Phase B: Business Architecture](Phase_B_Business_Architecture.md)
 
-## Phase C: Information Systems Architectures (Application)
+## [Phase C: Information Systems Architectures (Application)](./Phase_C1_Application_Architecture.md)
 
 ## Phase C: Information Systems Architectures (Data)
 
