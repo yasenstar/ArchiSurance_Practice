@@ -552,7 +552,7 @@
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-7a9ffffdd137405faebcec64d15a00d2" textAlignment="1" archimateElement="id-438ce78b5d384816b6ee6b35a71d78bc">
-        <bounds x="60" y="151" width="157" height="66"/>
+        <bounds x="60" y="151" width="121" height="66"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-7760533591e74e54880b73e6bfb225ed" source="id-7a9ffffdd137405faebcec64d15a00d2" target="id-09d5e4f5b5af452f8617f75a108da971" archimateRelationship="id-06da6f7b03ed4850a7664c051ef539b3">
           <feature name="labelExpression" value="${type}"/>
         </sourceConnection>

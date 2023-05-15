@@ -46,6 +46,7 @@
   <folder name="Implementation &amp; Migration" id="id-2536dc360b244e478d7d48327bb545ab" type="implementation_migration"/>
   <folder name="Other" id="id-beb93eb865674e6c9a15d855518cc201" type="other">
     <element xsi:type="archimate:Location" name="Location" id="id-77bbacd169a14a04ba7f8f8108a0f803"/>
+    <element xsi:type="archimate:Grouping" name="Grouping" id="id-438ce78b5d384816b6ee6b35a71d78bc"/>
   </folder>
   <folder name="Relations" id="id-5f352f20958f41e8bf2fd3f9b2b389b7" type="relations">
     <element xsi:type="archimate:AssociationRelationship" id="id-b79285c3e2964c139f44f3c0335058c6" source="id-04be793282334a4798514e958fdf6d6b" target="id-f16c13fe78e64786b4bf87bb187419c1"/>
@@ -100,6 +101,10 @@
     <element xsi:type="archimate:RealizationRelationship" id="id-34469b1fe8a740c9960fd5511ba83bd3" source="id-564ec3d954754428a8b0c918767bd544" target="id-7b3d8e38366e452ca35490ae5a84f609"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-b8b1a7770d0046efb723419a2ab6acb5" source="id-156d09ec071d437abe7f2efa84e612af" target="id-7b3d8e38366e452ca35490ae5a84f609"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-5fdc1afcbf3e411d9e915c59b3e4b142" source="id-8788025a82684f8eab17750716d0a25a" target="id-7b3d8e38366e452ca35490ae5a84f609"/>
+    <element xsi:type="archimate:FlowRelationship" id="id-b2d6a148a3944bacaa1e30d91c5dc633" source="id-564ec3d954754428a8b0c918767bd544" target="id-564ec3d954754428a8b0c918767bd544"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-06da6f7b03ed4850a7664c051ef539b3" source="id-438ce78b5d384816b6ee6b35a71d78bc" target="id-564ec3d954754428a8b0c918767bd544"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a61416f4a8df481886560beff0c3ed4d" source="id-564ec3d954754428a8b0c918767bd544" target="id-564ec3d954754428a8b0c918767bd544"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-8165bf43e79b4f839670a455b2190440" source="id-564ec3d954754428a8b0c918767bd544" target="id-564ec3d954754428a8b0c918767bd544"/>
   </folder>
   <folder name="Views" id="id-5d3376ef32ce489ea8fb527a5b550fb6" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-08cf0f53d7494cc0aa32f89c4353c69e">
@@ -510,6 +515,47 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-797ccbd5905741dd8e11c65bd5d880f8" archimateElement="id-7e0c5773b85d4229a9e98689a8ad2839">
         <bounds x="612" y="384" width="120" height="85"/>
+      </child>
+      <property key="Last Update" value="2023/5/15"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="TOGAF ADM Phase C - Modeling Pattern" id="id-3797d7fa73e44d48bbb581ae3bca5481">
+      <child xsi:type="archimate:Note" id="id-00f041dcd0b04299b1cfcf702b3ba719" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="142" y="41" width="541" height="37"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-63e095ba33134de88045b23ce09906e3" textAlignment="1" borderType="2">
+        <bounds x="576" y="96" width="211" height="47"/>
+        <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+        <property key="Last Update" value="2023/5/15"/>
+        <property key="Last Updated by" value="Xiaoqi Zhao"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-09d5e4f5b5af452f8617f75a108da971" targetConnections="id-748173c40ef448ce81807eb75704b37d id-7760533591e74e54880b73e6bfb225ed id-87781091d40b41cf9c0240be1aab51cd id-528dbae4d83e4ee8b4c1b2b5bc499572" archimateElement="id-564ec3d954754428a8b0c918767bd544">
+        <bounds x="336" y="156" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-748173c40ef448ce81807eb75704b37d" source="id-09d5e4f5b5af452f8617f75a108da971" target="id-09d5e4f5b5af452f8617f75a108da971" archimateRelationship="id-b2d6a148a3944bacaa1e30d91c5dc633">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startY="69" endY="69"/>
+          <bendpoint startX="132" startY="69" endX="132" endY="69"/>
+          <bendpoint startX="132" startY="9" endX="132" endY="9"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-87781091d40b41cf9c0240be1aab51cd" source="id-09d5e4f5b5af452f8617f75a108da971" target="id-09d5e4f5b5af452f8617f75a108da971" archimateRelationship="id-a61416f4a8df481886560beff0c3ed4d">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startX="-24" startY="93" endX="-24" endY="93"/>
+          <bendpoint startX="168" startY="93" endX="168" endY="93"/>
+          <bendpoint startX="168" startY="-3" endX="168" endY="-3"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-528dbae4d83e4ee8b4c1b2b5bc499572" source="id-09d5e4f5b5af452f8617f75a108da971" target="id-09d5e4f5b5af452f8617f75a108da971" archimateRelationship="id-8165bf43e79b4f839670a455b2190440">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startX="-48" startY="117" endX="-48" endY="117"/>
+          <bendpoint startX="204" startY="117" endX="204" endY="117"/>
+          <bendpoint startX="204" startY="-15" endX="204" endY="-15"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-7a9ffffdd137405faebcec64d15a00d2" textAlignment="1" archimateElement="id-438ce78b5d384816b6ee6b35a71d78bc">
+        <bounds x="60" y="151" width="157" height="66"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-7760533591e74e54880b73e6bfb225ed" source="id-7a9ffffdd137405faebcec64d15a00d2" target="id-09d5e4f5b5af452f8617f75a108da971" archimateRelationship="id-06da6f7b03ed4850a7664c051ef539b3">
+          <feature name="labelExpression" value="${type}"/>
+        </sourceConnection>
       </child>
       <property key="Last Update" value="2023/5/15"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
