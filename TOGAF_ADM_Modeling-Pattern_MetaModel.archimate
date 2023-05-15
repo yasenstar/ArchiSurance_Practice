@@ -9,6 +9,16 @@
     <element xsi:type="archimate:ValueStream" name="Value Stream" id="id-6ad73bc80be8422aa1f0d8c6c1462fdb"/>
   </folder>
   <folder name="Business" id="id-9a5fb3bf82774056802ecf1e2ad110c2" type="business">
+    <folder name="Business Actor" id="id-5b424ee7e19e4994b5daf3fa8eded8de">
+      <element xsi:type="archimate:BusinessActor" name="Enterprise Architect" id="id-af8eecf689044be5899242742caa2fa2"/>
+      <element xsi:type="archimate:BusinessActor" name="Business Architect" id="id-a180d53bc6d749d1902cd88c5fef061c"/>
+      <element xsi:type="archimate:BusinessActor" name="Solution Architect" id="id-baf72162df964ca3bf30c6335868132d"/>
+      <element xsi:type="archimate:BusinessActor" name="Management Consultant" id="id-2e86b1953c1a49449fb9fd1b9cf09f3d"/>
+      <element xsi:type="archimate:BusinessActor" name="Information Architect" id="id-6776b639774e46a78e8e0ee8c07ccca6"/>
+      <element xsi:type="archimate:BusinessActor" name="Integration Architect" id="id-42a0c16a013a40a5a3d8554a713bc3a6"/>
+      <element xsi:type="archimate:BusinessActor" name="Technology Architect" id="id-7e0c5773b85d4229a9e98689a8ad2839"/>
+      <element xsi:type="archimate:BusinessActor" name="Infrastructure Architect" id="id-4f1ea06c6d44474da5a382025a4fa64d"/>
+    </folder>
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-156d09ec071d437abe7f2efa84e612af"/>
     <element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-929731edfed043e1a25ae487506433d4"/>
     <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-360cb16cc5184170ba85f493ae5a991e"/>
@@ -448,6 +458,60 @@
         </sourceConnection>
       </child>
       <property key="Last Update" value="2023/5/14"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Archimate Layers with Artefacts Mapping &amp; Architect Roles" id="id-4efd9aac11a34b1a851ad3a77434b354">
+      <child xsi:type="archimate:Note" id="id-d5cc894e0c204c49a35cf7c72c61d22e" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="144" y="36" width="541" height="37"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-3abf9cf82c0640dd975fcc76b81f6951" textAlignment="1" borderType="2">
+        <bounds x="36" y="540" width="211" height="47"/>
+        <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-8ec1d7b6943a46f9b4f1ad7b2163a85e" name="Strategy" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f5deaa" textPosition="1" borderType="1">
+        <bounds x="36" y="168" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-2614084b0cb542a1ad369d0ad8060c3a" name="Business" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
+        <bounds x="36" y="240" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-e2a716724e5e4ebd8f5e2e723ae56477" name="Application" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
+        <bounds x="36" y="312" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-c47303f3bbcd436c86c88c5e0a71a819" name="Technology &amp; Physical" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#c9e7b7" textPosition="1" borderType="1">
+        <bounds x="36" y="384" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-576473c38f6a4d50b2a9dae3871ce11d" name="Motivation" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ccccff" textPosition="1" borderType="1">
+        <bounds x="36" y="96" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-bab4d7c02a254ed7882d9eebf6856272" name="Implementation &amp; Migration" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffe0e0" textPosition="1" borderType="1">
+        <bounds x="36" y="456" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-088bbe0964844328bbe9a81a6e7aab13" archimateElement="id-a180d53bc6d749d1902cd88c5fef061c">
+        <bounds x="612" y="124" width="120" height="141"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e7bc1744b64148268f69b4ce8400b987" archimateElement="id-af8eecf689044be5899242742caa2fa2">
+        <bounds x="216" y="96" width="120" height="241"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-31e946837eca46cfad86ea0ac0599d11" archimateElement="id-6776b639774e46a78e8e0ee8c07ccca6">
+        <bounds x="480" y="216" width="120" height="109"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-96441196ddb547a987b4cfe8bdc5caa1" archimateElement="id-4f1ea06c6d44474da5a382025a4fa64d">
+        <bounds x="744" y="414" width="120" height="79"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-b03341d5f9aa4058b681b034c0cb3521" archimateElement="id-42a0c16a013a40a5a3d8554a713bc3a6">
+        <bounds x="612" y="288" width="120" height="73"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-1836318a95014dd790d6426860588295" archimateElement="id-2e86b1953c1a49449fb9fd1b9cf09f3d">
+        <bounds x="480" y="111" width="120" height="82"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-781223e256b049afaef30ffe2cccbbbd" archimateElement="id-baf72162df964ca3bf30c6335868132d">
+        <bounds x="348" y="144" width="120" height="361"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-797ccbd5905741dd8e11c65bd5d880f8" archimateElement="id-7e0c5773b85d4229a9e98689a8ad2839">
+        <bounds x="612" y="384" width="120" height="85"/>
+      </child>
+      <property key="Last Update" value="2023/5/15"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
   </folder>
