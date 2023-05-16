@@ -10,9 +10,9 @@
 
 ## Figure 30: Infrastructure View (Target)
 
-- [Archi_Model_30]()
+- [Archi_Model_30](./Phase_D_Technology_Architecture/30-Infratructure-View-Target.archimate)
 - [Figure 30 Video]()
-- ![Figure 30]()
+- ![Figure 30](./Phase_D_Technology_Architecture/Figure30_Infrastructure-View(Target).jpg)
 
 ---
 
