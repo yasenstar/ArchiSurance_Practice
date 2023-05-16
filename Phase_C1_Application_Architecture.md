@@ -26,9 +26,16 @@
 
 ## Figure 25: Appliation Bahavior (Target)
 
+- [Archi_model_25](./Phase_C_IS_Architecture_Application/25-Application-Behavior-Target.archimate)
+- [Figure 25 Video](https://youtu.be/asHvBIgsFXY)
+- ![Figure 25](Phase_C_IS_Architecture_Application/Figure25_Application-Behavior(Target).jpg)
+
 ---
 
 ## Figure 26: Application Architecture - Gap Analysis
 
 ---
 
+## Phase C1 Pattern Summary
+
+---END of C1---
