@@ -18,6 +18,10 @@
 
 ## Figure 24: Application Usage (Baseline)
 
+- [Archi_model_24](./Phase_C_IS_Architecture_Application/24-Application-Usage-Baseline.archimate)
+- [Figure 24 Video](https://youtu.be/8kqIYG5_kl4)
+- ![Figure 24](Phase_C_IS_Architecture_Application/Figure24_Application-Usage.jpg)
+
 ---
 
 ## Figure 25: Appliation Bahavior (Target)
