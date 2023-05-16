@@ -18,9 +18,9 @@
 
 ## Figure 31: Data Acquisition from IoT Services (Baseline)
 
-- [Archi_Model_31]()
+- [Archi_Model_31](./Phase_D_Technology_Architecture/31-Data-Acquisition-Target.archimate)
 - [Figure 31 Video]()
-- ![Figure 31]()
+- ![Figure 31](./Phase_D_Technology_Architecture/Figure31_Data-Acquisition(Target).jpg)
 
 ---
 
