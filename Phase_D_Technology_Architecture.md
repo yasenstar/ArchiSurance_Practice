@@ -2,9 +2,9 @@
 
 ## Figure 29: Infrastructure View (Baseline)
 
-- [Archi_Model_29]()
+- [Archi_Model_29](./Phase_D_Technology_Architecture/29-Infratructure-View-Baseline.archimate)
 - [Figure 29 Video]()
-- ![Figure 29]()
+- ![Figure 29](./Phase_D_Technology_Architecture/Figure29_Infrastructure-View(Baseline).jpg)
 
 ---
 
