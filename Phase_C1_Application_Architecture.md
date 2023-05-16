@@ -40,6 +40,8 @@
 
 ---
 
-## Phase C1 Pattern Summary
+## Phase C1 Pattern Summary on Application Architecture
+
+- [C1 Archi Pattern video](https://youtu.be/m5aKkxw6Nv0)
 
 ---END of C1---
