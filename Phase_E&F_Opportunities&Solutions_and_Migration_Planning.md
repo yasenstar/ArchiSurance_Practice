@@ -2,9 +2,9 @@
 
 ## Figure 34: Migration View
 
-- [Archi_Model_34]()
+- [Archi_Model_34](./Phase_E_F_Oppotunities_Solution_and_Migration_Planning/34-Migration-View.archimate)
 - [Figure 34 Video]()
-- ![Figure 34]()
+- ![Figure 34](./Phase_E_F_Oppotunities_Solution_and_Migration_Planning/Figure34_Migration-View.jpg)
 
 ---
 
