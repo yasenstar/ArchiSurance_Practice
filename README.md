@@ -12,11 +12,11 @@ Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Vi
 
 ## [Phase C: Information Systems Architectures (Application)](./Phase_C1_Application_Architecture.md)
 
-## Phase C: Information Systems Architectures (Data)
+## [Phase C: Information Systems Architectures (Data)](./Phase_C2_Data_Architecture.md)
 
-## Phase D: Technology Architecture
+## [Phase D: Technology Architecture](./Phase_D_Technology_Architecture.md)
 
-## Phsae E & F: Opportunities & Solutions and Migration Planning
+## [Phsae E & F: Opportunities & Solutions and Migration Planning](./Phase_E%26F_Opportunities%26Solutions_and_Migration_Planning.md)
 
 ---
 

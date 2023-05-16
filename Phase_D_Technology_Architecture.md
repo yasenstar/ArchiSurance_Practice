@@ -1,7 +1,41 @@
-# Phase C: Information Systems Architectures (Application)
+# Phase D: Technology Architecture
 
-## Phase C: Information Systems Architectures (Data)
+## Figure 29: Infrastructure View (Baseline)
 
-## Phase D: Technology Architecture
+- [Archi_Model_29]()
+- [Figure 29 Video]()
+- ![Figure 29]()
 
-## Phsae E & F: Opportunities & Solutions and Migration Planning
+---
+
+## Figure 30: Infrastructure View (Target)
+
+- [Archi_Model_30]()
+- [Figure 30 Video]()
+- ![Figure 30]()
+
+---
+
+## Figure 31: Data Acquisition from IoT Services (Baseline)
+
+- [Archi_Model_31]()
+- [Figure 31 Video]()
+- ![Figure 31]()
+
+---
+
+## Figure 32: IoT Device Services (Target)
+
+- [Archi_Model_32]()
+- [Figure 32 Video]()
+- ![Figure 32]()
+
+---
+
+## Figure 33: Technology Architecture: Gap Analysis
+
+- [Archi_Model_33]()
+- [Figure 33 Video]()
+- ![Figure 33]()
+
+---
