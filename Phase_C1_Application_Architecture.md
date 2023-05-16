@@ -34,6 +34,10 @@
 
 ## Figure 26: Application Architecture - Gap Analysis
 
+- [Archi_model_26](./Phase_C_IS_Architecture_Application/26-Application-Gap-Analysis.archimate)
+- [Figure 26 Video](https://youtu.be/_0jeka-293k)
+- ![Figure 26](./Phase_C_IS_Architecture_Application/Figure26_Application-Gap-Analysis.jpg)
+
 ---
 
 ## Phase C1 Pattern Summary
