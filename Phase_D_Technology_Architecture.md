@@ -26,9 +26,9 @@
 
 ## Figure 32: IoT Device Services (Target)
 
-- [Archi_Model_32]()
+- [Archi_Model_32](./Phase_D_Technology_Architecture/32-IoT-Device-Services.archimate)
 - [Figure 32 Video]()
-- ![Figure 32]()
+- ![Figure 32](./Phase_D_Technology_Architecture/Figure32_IoT-Device-Services(Target).jpg)
 
 ---
 
