@@ -34,8 +34,8 @@
 
 ## Figure 33: Technology Architecture: Gap Analysis
 
-- [Archi_Model_33]()
+- [Archi_Model_33](./Phase_D_Technology_Architecture/33-TechArch-Gap-Analysis.archimate)
 - [Figure 33 Video]()
-- ![Figure 33]()
+- ![Figure 33](./Phase_D_Technology_Architecture/Figure33_Technology-Architecture-Gap-Analysis.jpg)
 
 ---
