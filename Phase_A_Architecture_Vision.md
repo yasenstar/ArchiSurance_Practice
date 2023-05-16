@@ -54,7 +54,7 @@ Phase A: Meta-Model Updates
 
 - [Modeling Pattern model file](./TOGAF_ADM_Modeling-Pattern_MetaModel.archimate)
 - [TOGAF ADM Phase A Meta-Model (Modeling Pattern)](https://youtu.be/IndW2ooYEP8)
-- ![Phase A Meta-Model View](./TOGAF_ADM_Meta-Model/TOGAF%20ADM%20Phase%20A%20-%20Modeling%20Pattern.jpg)
+- ![Phase A Meta-Model View](Phase_A_Architecture_Vision/TOGAF ADM Phase A - Modeling Pattern.jpg)
 
 ---
 ### Here is Phase A: [Finished Model](./Phase_A_Architecture_Vision/PhaseA_Finished.archimate)
