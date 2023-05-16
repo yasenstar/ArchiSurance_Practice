@@ -627,6 +627,16 @@
       <property key="Last Update" value="2023/5/15"/>
       <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="TOGAF ADM Phase C - Modeling Pattern (Data Architecture)" id="id-e45f61fd7fd74d4db85ae4dac907aab2">
+      <child xsi:type="archimate:Note" id="id-ee35d7d62b4241c282f171cc431b2645" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
+        <bounds x="142" y="41" width="541" height="37"/>
+        <feature name="labelExpression" value="$view{name}"/>
+      </child>
+      <child xsi:type="archimate:Note" id="id-d2a3b343a7dc4c0ab10778b7cbda8891" textAlignment="1" borderType="2">
+        <bounds x="610" y="461" width="211" height="47"/>
+        <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+      </child>
+    </element>
   </folder>
   <profile name="Strategy Layer" id="id-882747ff59cc41bd9f10020e3ef97cdb" imagePath="images/_7R8pcOeREe2z-r3zzNF7_w.png" conceptType="Capability"/>
   <profile name="Business Layer" id="id-9e0bfd8a85c34de989295472373872d6" imagePath="images/_KWccAOeVEe2z-r3zzNF7_w.png" conceptType="BusinessFunction"/>

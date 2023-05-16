@@ -1,7 +1,12 @@
-# Phase C: Information Systems Architectures (Application)
+# Phase C2: Information Systems - Data Architecture
 
-## Phase C: Information Systems Architectures (Data)
+## Figure 27: Information Structure
 
-## Phase D: Technology Architecture
+- [Archi_Model_27](./Phase_C_IS_Architecture_Data/27-Information-Structure.archimate)
+- [Figure 27 Video](https://youtu.be/kWNVbSURrG8)
+- ![Figure 27](./Phase_C_IS_Architecture_Data/Figure27_Information-Structure.jpg)
 
-## Phsae E & F: Opportunities & Solutions and Migration Planning
+---
+
+## Figure 28: Data Dissemination View
+

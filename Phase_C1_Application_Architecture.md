@@ -1,4 +1,5 @@
-# Phase C: Information System Architecture
+# Phase C1: Information System - Application 
+Architecture
 
 ## Figure 22: Application Cooperation (Baseline)
 
