@@ -23,12 +23,14 @@
     <element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-929731edfed043e1a25ae487506433d4"/>
     <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-360cb16cc5184170ba85f493ae5a991e"/>
     <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-a2a8cee43263434cbe24232c9e259fa2"/>
+    <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-2483c513cf8a4051b87fca9a285763ee"/>
   </folder>
   <folder name="Application" id="id-d6569693fb284e3bbb87aa6a73474ce2" type="application">
     <element xsi:type="archimate:ApplicationService" name="Application Service" id="id-f803b72c8f68481aad841f3dd1ef3cf5"/>
     <element xsi:type="archimate:ApplicationComponent" name="Application Component" id="id-564ec3d954754428a8b0c918767bd544"/>
     <element xsi:type="archimate:ApplicationProcess" name="Application Process" id="id-a8c16cf3ca544484a02f3a0d3e553b12"/>
     <element xsi:type="archimate:DataObject" name="Data Object" id="id-e89089d5dfcd43dc9a8835efbdf0e164"/>
+    <element xsi:type="archimate:ApplicationFunction" name="Application Function" id="id-84ec877c190b4dba82b38ebff71502d9"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-d4502afb6b7d48a381add28acc6d76ba" type="technology">
     <element xsi:type="archimate:Artifact" name="Artifact" id="id-6bf5cb2d7abe4fdda2f76b0cf52eb84a"/>
@@ -117,6 +119,12 @@
     <element xsi:type="archimate:FlowRelationship" id="id-3d54a10bb81a443993bf439e47d80337" source="id-c9433bcfa7274629b018046bf9e35cee" target="id-a8c16cf3ca544484a02f3a0d3e553b12"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-5272a45bd3cc4911b9452d82ab9864bd" source="id-a8c16cf3ca544484a02f3a0d3e553b12" target="id-a8c16cf3ca544484a02f3a0d3e553b12"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-23f705b86fb848d4b5c6cdd1ed2e0701" source="id-608e2fbc6e894b86a1eb288212278dd3" target="id-3d54a10bb81a443993bf439e47d80337"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-ed2e1ddcf9ac4a51831853b0486deef7" source="id-2483c513cf8a4051b87fca9a285763ee" target="id-2483c513cf8a4051b87fca9a285763ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fcb30479b3954e89980c8bb2a0f50ba9" source="id-2483c513cf8a4051b87fca9a285763ee" target="id-2483c513cf8a4051b87fca9a285763ee"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-58d09501b7ef4864a9f22b46d799b1af" source="id-2483c513cf8a4051b87fca9a285763ee" target="id-2483c513cf8a4051b87fca9a285763ee"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-c84404548b004dfab1f02d648a51be7f" source="id-e89089d5dfcd43dc9a8835efbdf0e164" target="id-2483c513cf8a4051b87fca9a285763ee"/>
+    <element xsi:type="archimate:AccessRelationship" id="id-f7a38ac255fb4b37b58d4236556e03e3" source="id-84ec877c190b4dba82b38ebff71502d9" target="id-e89089d5dfcd43dc9a8835efbdf0e164"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-f355146b6c1843acb6f24c810c510643" source="id-564ec3d954754428a8b0c918767bd544" target="id-84ec877c190b4dba82b38ebff71502d9"/>
   </folder>
   <folder name="Views" id="id-5d3376ef32ce489ea8fb527a5b550fb6" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-08cf0f53d7494cc0aa32f89c4353c69e">
@@ -629,13 +637,54 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="TOGAF ADM Phase C - Modeling Pattern (Data Architecture)" id="id-e45f61fd7fd74d4db85ae4dac907aab2">
       <child xsi:type="archimate:Note" id="id-ee35d7d62b4241c282f171cc431b2645" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
-        <bounds x="142" y="41" width="541" height="37"/>
+        <bounds x="142" y="41" width="679" height="37"/>
         <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:Note" id="id-d2a3b343a7dc4c0ab10778b7cbda8891" textAlignment="1" borderType="2">
-        <bounds x="610" y="461" width="211" height="47"/>
+        <bounds x="491" y="348" width="211" height="47"/>
         <feature name="labelExpression" value="Last Updated at: $view{property:Last Update},&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
       </child>
+      <child xsi:type="archimate:DiagramObject" id="id-a3860fa3c01a4d108f864ce989b585f8" targetConnections="id-f3130cdb0f5444f994393752b7f036fd id-367adea3c08e4da29cc77bf0c8a0df2c id-6ad677a602254db6ac41e202ddce4e70 id-ec1f2c1b610e4055ba8ea1da39bedb68" archimateElement="id-2483c513cf8a4051b87fca9a285763ee">
+        <bounds x="120" y="89" width="335" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-f3130cdb0f5444f994393752b7f036fd" source="id-a3860fa3c01a4d108f864ce989b585f8" target="id-a3860fa3c01a4d108f864ce989b585f8" archimateRelationship="id-ed2e1ddcf9ac4a51831853b0486deef7">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startX="13" startY="112" endX="13" endY="112"/>
+          <bendpoint startX="313" startY="112" endX="313" endY="112"/>
+          <bendpoint startX="313" startY="-20" endX="313" endY="-20"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-367adea3c08e4da29cc77bf0c8a0df2c" source="id-a3860fa3c01a4d108f864ce989b585f8" target="id-a3860fa3c01a4d108f864ce989b585f8" archimateRelationship="id-fcb30479b3954e89980c8bb2a0f50ba9">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startX="61" startY="88" endX="61" endY="88"/>
+          <bendpoint startX="265" startY="88" endX="265" endY="88"/>
+          <bendpoint startX="265" startY="-8" endX="265" endY="-8"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6ad677a602254db6ac41e202ddce4e70" source="id-a3860fa3c01a4d108f864ce989b585f8" target="id-a3860fa3c01a4d108f864ce989b585f8" archimateRelationship="id-58d09501b7ef4864a9f22b46d799b1af">
+          <feature name="labelExpression" value="${type}"/>
+          <bendpoint startX="85" startY="52" endX="85" endY="52"/>
+          <bendpoint startX="217" startY="52" endX="217" endY="52"/>
+          <bendpoint startX="217" startY="4" endX="217" endY="4"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-861b0c4327b942fab65da5722982889b" targetConnections="id-3a8413af79344a7387debdd84f7eea44" archimateElement="id-e89089d5dfcd43dc9a8835efbdf0e164">
+        <bounds x="120" y="252" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ec1f2c1b610e4055ba8ea1da39bedb68" source="id-861b0c4327b942fab65da5722982889b" target="id-a3860fa3c01a4d108f864ce989b585f8" archimateRelationship="id-c84404548b004dfab1f02d648a51be7f">
+          <feature name="labelExpression" value="${type}"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-28bca793deb7404881b3c121ca77fc17" targetConnections="id-ceb2eb7d6d36436aba41fd44eeed66e7" archimateElement="id-84ec877c190b4dba82b38ebff71502d9">
+        <bounds x="372" y="252" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-3a8413af79344a7387debdd84f7eea44" source="id-28bca793deb7404881b3c121ca77fc17" target="id-861b0c4327b942fab65da5722982889b" archimateRelationship="id-f7a38ac255fb4b37b58d4236556e03e3">
+          <feature name="labelExpression" value="${type}"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-7f2d014d2d3549009f96c961d4946cf6" archimateElement="id-564ec3d954754428a8b0c918767bd544">
+        <bounds x="636" y="252" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ceb2eb7d6d36436aba41fd44eeed66e7" source="id-7f2d014d2d3549009f96c961d4946cf6" target="id-28bca793deb7404881b3c121ca77fc17" archimateRelationship="id-f355146b6c1843acb6f24c810c510643">
+          <feature name="labelExpression" value="${type}"/>
+        </sourceConnection>
+      </child>
+      <property key="Last Update" value="2023/5/15"/>
+      <property key="Last Updated by" value="Xiaoqi Zhao"/>
     </element>
   </folder>
   <profile name="Strategy Layer" id="id-882747ff59cc41bd9f10020e3ef97cdb" imagePath="images/_7R8pcOeREe2z-r3zzNF7_w.png" conceptType="Capability"/>
