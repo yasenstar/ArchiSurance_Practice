@@ -43,3 +43,5 @@
 ## Phase D - Modeling Pattern
 
 ![Technology Architecture Modeling Pattern](./Phase_D_Technology_Architecture/TOGAF%20ADM%20Phase%20D%20-%20Modeling%20Pattern.jpg)
+
+---END of Phase D---
