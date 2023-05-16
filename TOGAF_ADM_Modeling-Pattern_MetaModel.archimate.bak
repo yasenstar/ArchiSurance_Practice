@@ -796,7 +796,7 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="TOGAF ADM Phase D - Modeling Pattern (with Label)" id="id-ec2718178e36484590abd3e75d928299">
       <child xsi:type="archimate:Note" id="id-5973dc6430d84c66b83095b42b1af847" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
-        <bounds x="204" y="36" width="541" height="37"/>
+        <bounds x="420" y="36" width="541" height="37"/>
         <feature name="labelExpression" value="$view{name}"/>
       </child>
       <child xsi:type="archimate:Note" id="id-f2b29dfc6b924482bde24e0227de691b" textAlignment="1" borderType="2">
