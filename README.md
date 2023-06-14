@@ -20,6 +20,10 @@ Initialized clean model: [Initial_Model](./ArchiSurance_Practice.archimate), [Vi
 
 ---
 
+## [ArchiSurance Case Study Modeling Pattern](ArchiSurance_Modeling_Pattern.md)
+
+---
+
 First, let's talk some basic parts about Archi tool:
 
 1. [Understand the Archi Tool Model File Structure](./Understand_Archi_Model_Structure.md)
