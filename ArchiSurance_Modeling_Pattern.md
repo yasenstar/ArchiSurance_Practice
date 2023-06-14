@@ -2,7 +2,7 @@
 
 ## Summarized Pattern
 
-![Summary Pattern]()
+![Summary Pattern](./ArchiSurance_Patterns/ArchiSurance%20Case%20Study%20Modeling%20Pattern%20-%20Summary%20View.jpg)
 
 ## Phase A Pattern
 
