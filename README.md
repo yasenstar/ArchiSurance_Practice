@@ -46,7 +46,7 @@ View HTML Exported Report from Github page here: https://yasenstar.github.io/Arc
 - [HTML Exported Report in Archi 5.2 version](ArchiSurance_HTML_5.2/index.html)
 - [HTML Exported Report in Archi 5.0 version](ArchiSurance_HTML_5.0/index.html)
 
-Two Export: 1. [ArchiSurance_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_HTML/index.html), 2. [ArchiSurance_Pattern_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_Pattern_HTML/index.html)
+Also Export on [ArchiSurance_Pattern_HTML](https://yasenstar.github.io/ArchiSurance_Practice/ArchiSurance_Pattern_HTML/index.html)
 
 ---
 
