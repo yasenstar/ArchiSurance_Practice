@@ -91,19 +91,35 @@
         <element xsi:type="archimate:Capability" name="Organization Development" id="id-574e962ef3ae45a9a9e728bf9d299034"/>
         <element xsi:type="archimate:Capability" name="Process Management" id="id-f267eb7771c8485caad0f9e7b5e22fac"/>
       </folder>
-      <element xsi:type="archimate:Capability" name="Business Management" id="id-b1f02a9e7d884a0988f9cc7d46d5978e"/>
-      <element xsi:type="archimate:Capability" name="Product Management" id="id-c4be40fce29c4895aac6b4f3136e3fac" profiles="id-76e4d63f8085458da25ffc6c3516c66b"/>
-      <element xsi:type="archimate:Capability" name="Asset Management" id="id-811d6f9bc48a46cab19eff2d6dd50827" profiles="id-76e4d63f8085458da25ffc6c3516c66b"/>
-      <element xsi:type="archimate:Capability" name="Business Support" id="id-012e2476e1dc4199bce9332e0f8ca46c"/>
+      <element xsi:type="archimate:Capability" name="Business Management" id="id-b1f02a9e7d884a0988f9cc7d46d5978e">
+        <property key="Capability Level" value="0"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Product Management" id="id-c4be40fce29c4895aac6b4f3136e3fac" profiles="id-76e4d63f8085458da25ffc6c3516c66b">
+        <property key="Capability Level" value="0"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Asset Management" id="id-811d6f9bc48a46cab19eff2d6dd50827" profiles="id-76e4d63f8085458da25ffc6c3516c66b">
+        <property key="Capability Level" value="0"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Business Support" id="id-012e2476e1dc4199bce9332e0f8ca46c">
+        <property key="Capability Level" value="0"/>
+      </element>
       <element xsi:type="archimate:Capability" name="Customer Management" id="id-81f31b93e64f4d6faf6ded97a4d21fc2" profiles="id-76e4d63f8085458da25ffc6c3516c66b">
         <property key="Phase" value="both current &amp; tobe"/>
+        <property key="Capability Level" value="0"/>
       </element>
-      <element xsi:type="archimate:Capability" name="Money Market Management" id="id-cf5fd4ecb67f42ec82e197848e2f4847" profiles="id-76e4d63f8085458da25ffc6c3516c66b"/>
+      <element xsi:type="archimate:Capability" name="Money Market Management" id="id-cf5fd4ecb67f42ec82e197848e2f4847" profiles="id-76e4d63f8085458da25ffc6c3516c66b">
+        <property key="Capability Level" value="0"/>
+      </element>
       <element xsi:type="archimate:Capability" name="Policy and Claim Management" id="id-d03cfe3302cf44d8a8dfdcb2e3182450" profiles="id-76e4d63f8085458da25ffc6c3516c66b">
         <property key="Phase" value="both current &amp; tobe"/>
+        <property key="Capability Level" value="0"/>
       </element>
-      <element xsi:type="archimate:Capability" name="Sales And Distribution" id="id-ab2df539597f4ae08defc2f6f5cd7ed1"/>
-      <element xsi:type="archimate:Capability" name="Marketing" id="id-9c8d3a0313e94cdd802cad86cc8d1463"/>
+      <element xsi:type="archimate:Capability" name="Sales And Distribution" id="id-ab2df539597f4ae08defc2f6f5cd7ed1">
+        <property key="Capability Level" value="0"/>
+      </element>
+      <element xsi:type="archimate:Capability" name="Marketing" id="id-9c8d3a0313e94cdd802cad86cc8d1463">
+        <property key="Capability Level" value="0"/>
+      </element>
     </folder>
     <folder name="Resource" id="id-1d49808881d54c62b034b6511c97a243">
       <element xsi:type="archimate:Resource" name="Enterprise-Wide CRM Automation" id="id-95f7f2986e6f492f8094ff1c24c08d12"/>
@@ -2901,7 +2917,7 @@ Capability Realization .........................................................
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1a104fa8710b4e2894c6fa224aaf18ca" archimateElement="id-ef3e8f8b93f544fb8c431a95775d36a2">
           <bounds x="96" y="420" width="120" height="55"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-6922aed707f4499bad0656e6ce0352f2" source="id-1a104fa8710b4e2894c6fa224aaf18ca" target="id-5e0399ca94004d1082a5f3c5bb5f5baa" archimateRelationship="id-9cd4df7430c6420d8a3af85a50ab3ae1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6922aed707f4499bad0656e6ce0352f2" lineWidth="3" source="id-1a104fa8710b4e2894c6fa224aaf18ca" target="id-5e0399ca94004d1082a5f3c5bb5f5baa" archimateRelationship="id-9cd4df7430c6420d8a3af85a50ab3ae1"/>
         </child>
         <property key="Last Update" value="2023/5/15"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
