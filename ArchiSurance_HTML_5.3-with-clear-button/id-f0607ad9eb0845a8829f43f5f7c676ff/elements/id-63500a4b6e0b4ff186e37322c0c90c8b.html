@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Document Management System</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Document Management System</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-ApplicationComponent"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-ApplicationComponent" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-da174ba43e624443bb4f0314f73006b1">
+																	<td><a href="../views/id-da174ba43e624443bb4f0314f73006b1.html" target="view" title="Figure22_Application-Coorperation(Baseline)"> Figure22_Application-Coorperation(Baseline) </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-aed69adc216a48119ebe68c726d492b1">
+																	<td><a href="../views/id-aed69adc216a48119ebe68c726d492b1.html" target="view" title="Figure23_Application-Coorperation(Target)"> Figure23_Application-Coorperation(Target) </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-43c615b8935b4504be376037912c021f">
+																	<td><a href="../views/id-43c615b8935b4504be376037912c021f.html" target="view" title="Figure26_Application-Gap-Analysis"> Figure26_Application-Gap-Analysis </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-3748a07ce5dd491b8fc840ebc05adf92.html" target="element" title="document data">document data</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+											<td><a href="../elements/id-c94a44ffe0f3470b919507325e2d44df.html" target="element"> Home &amp; Away Financial Application</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-f860bff4524a4902a0dedc1299ee44a9.html" target="element" title="document data">document data</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+											<td><a href="../elements/id-1bff260584824937b3af61bc7192acbc.html" target="element"> Home &amp; Away Policy Administration</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-170fa935fabe4514a46babd171b1b675.html" target="element" title="document data">document data</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+											<td><a href="../elements/id-bba5ad8d7e99407787c00d9c8b8e0f7f.html" target="element"> Auto Insurance Application</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-6b855c601a1346609753429a0afde590.html" target="element" title="document data">document data</a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+											<td><a href="../elements/id-2f59e59f3b79494bbd471468e670bd79.html" target="element"> Legal Expense Back-Office System</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-95378bc9fb7d4846a81b825b0349aee9.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+											<td><a href="../elements/id-6610a957cdb44757b0b3f59ba7885bb3.html" target="element"> ArchiSurance Back Office Suite</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/id-928237d070734d6891be8f1506bae989.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-76602ed754ba47d69987d2483fe99f71.html" target="element"> Shared Service Center</a></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-d70d77e1fdf547b682ca5117ed75f99d.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-1bff260584824937b3af61bc7192acbc.html" target="element"> Home &amp; Away Policy Administration</a></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-2a2d30dc964c4f06a56b8c843ffec57f.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-bba5ad8d7e99407787c00d9c8b8e0f7f.html" target="element"> Auto Insurance Application</a></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-956590f6d2124e6fa484042bd22fc2f7.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-2f59e59f3b79494bbd471468e670bd79.html" target="element"> Legal Expense Back-Office System</a></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-534b6350aa2042cf896ce36215c66e9b.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-FlowRelationship" /></td>
+											<td><a href="../elements/id-6610a957cdb44757b0b3f59ba7885bb3.html" target="element"> ArchiSurance Back Office Suite</a></td>
+											<td><a href="../elements/id-63500a4b6e0b4ff186e37322c0c90c8b.html" target="element"> Document Management System</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
