@@ -1723,7 +1723,7 @@ Capability Realization .........................................................
         <property key="Last Update" value="2023/4/30"/>
         <property key="Last Updated by" value="Xiaoqi Zhao"/>
       </element>
-      <element xsi:type="archimate:ArchimateDiagramModel" name="Figure-14_Busienss_Function_View(Baseline)" id="id-7fa8450941d347deb33dea1bd970c958">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Figure-14_Business_Function_View(Baseline)" id="id-7fa8450941d347deb33dea1bd970c958">
         <child xsi:type="archimate:Note" id="id-3c859a1b5fb7428ebbd34b637bedbfa5" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textPosition="1" borderType="2">
           <bounds x="300" y="36" width="541" height="37"/>
           <feature name="labelExpression" value="$view{name}"/>
