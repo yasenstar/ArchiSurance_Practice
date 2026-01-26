@@ -2,9 +2,9 @@
 
 [![ArchiMate Version](https://img.shields.io/badge/ArchiMate-3.2-blue.svg)](https://www.opengroup.org/archimate-forum/archimate-32-standard)
 [![Tool](https://img.shields.io/badge/Modeling%20Tool-Archi-orange.svg)](https://www.archimatetool.com/)
-[![Udemy Bestseller](https://img.shields.io/badge/Udemy-Bestseller-orange.svg)](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)
+[![Udemy Bestseller](https://img.shields.io/badge/Udemy-Bestseller-green.svg)](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)
 [![Udemy Business](https://img.shields.io/badge/Udemy_Business-Selected-blueviolet.svg)](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](https://opensource.org/licenses/MIT)
 
 > **The ultimate hands-on tutorial for aspiring Enterprise Architects.** This repository provides a complete ArchiMate implementation of the famous **ArchiSurance** case study, specifically designed for candidates preparing for the **ArchiMate® Practitioner (Level 2) Certification Exam.**
 
