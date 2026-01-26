@@ -42,11 +42,12 @@ The models are organized to follow the standard ArchiSurance transformation jour
 To get the most out of this practice guide, follow these steps:
 
 1.  **Install Archi:** Download the latest version of [Archi](https://www.archimatetool.com/), the industry-standard open-source modeling tool.
-2.  **Clone the Repo:** ```bash
-    git clone [https://github.com/yasenstar/ArchiSurance_Practice.git](https://github.com/yasenstar/ArchiSurance_Practice.git)
-    ```
-3.  **Open the Model:** Launch Archi and open the `.archimate` file.
-4.  **Reverse Engineer:** Look at a view (e.g., "Business Process View") and try to recreate it from scratch using the ArchiSurance case study PDF (not included, available via The Open Group).
+2.  **Clone the Repo:** 
+```bash
+git clone [https://github.com/yasenstar/ArchiSurance_Practice.git](https://github.com/yasenstar/ArchiSurance_Practice.git)
+```
+4.  **Open the Model:** Launch Archi and open the `.archimate` file.
+5.  **Reverse Engineer:** Look at a view (e.g., "Business Process View") and try to recreate it from scratch using the ArchiSurance case study PDF (not included, available via The Open Group).
 
 ---
 
