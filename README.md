@@ -2,7 +2,9 @@
 
 [![ArchiMate Version](https://img.shields.io/badge/ArchiMate-3.2-blue.svg)](https://www.opengroup.org/archimate-forum/archimate-32-standard)
 [![Tool](https://img.shields.io/badge/Modeling%20Tool-Archi-orange.svg)](https://www.archimatetool.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Udemy Bestseller](https://img.shields.io/badge/Udemy-Bestseller-orange.svg)](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)
+[![Udemy Business](https://img.shields.io/badge/Udemy_Business-Selected-blueviolet.svg)](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > **The ultimate hands-on tutorial for aspiring Enterprise Architects.** This repository provides a complete ArchiMate implementation of the famous **ArchiSurance** case study, specifically designed for candidates preparing for the **ArchiMate® Practitioner (Level 2) Certification Exam.**
 
@@ -68,7 +70,39 @@ This repository emphasizes the areas most likely to appear on the **ArchiMate Pr
 
 ---
 
-## 🤝 Contributing
+## 🎓 Master ArchiMate with Top-Rated Training
+
+This repository is the official companion to my globally recognized ArchiMate training series. Whether you want a guided deep-dive or free community resources, these links are the best place to start:
+
+### ⭐ [Bestseller] ArchiMate Modeling Practices with ArchiSurance
+This course is a **long-standing Bestseller** on Udemy and has been officially selected for **Udemy Business**, reflecting its high quality and trust among global enterprises. It is specifically designed to help you bridge the gap between Level 1 theory and Level 2 practical application.
+* **[Enroll in the Bestselling Udemy Course Here](https://www.udemy.com/course/archi-archimate-modeling-practices-with-archisurance/?referralCode=5391DBF946B5C02FFF7D)**
+
+### 📺 Free Community Sharing (YouTube)
+I believe in giving back to the ArchiMate modeling community. You can access a dedicated playlist of tutorials for free to get started with the ArchiSurance case study.
+* **[Watch the Free YouTube Series](https://www.youtube.com/playlist?list=PL6DEHvciXKeXj1IlGBRB0KMaSv5Xt38uk)**
+
+---
+
+## 🎯 Why This Practice Lab?
+
+To pass the ArchiMate Practitioner exam, you don't just need to know the definitions—you need to know how to **model**. ArchiSurance is the official case study used by The Open Group, and this repository provides the "Digital Twin" of that case study.
+
+### Key Features:
+* **Level 2 Exam Focus:** Heavy emphasis on the Motivation, Strategy, and Implementation & Migration layers.
+* **Relationship Mastery:** Hands-on examples of derived relationships and complex cross-layer mapping.
+* **Real-World Scenarios:** From baseline architecture to target state plateaus.
+
+---
+
+## 🛠️ Requirements
+
+1. **The Archi Tool:** You will need [Archi](https://www.archimatetool.com/) (the leading open-source ArchiMate modeling tool) to open the `.archimate` files.
+2. **Case Study Document:** It is recommended to have the ArchiSurance Case Study PDF (from The Open Group) open as you explore these models.
+
+---
+
+## 🤝 Contributing & Community
 
 Contributions are welcome! If you find a relationship that could be modeled more efficiently or want to add a new viewpoint (e.g., Security or Data), feel free to:
 1. Fork the Project.
@@ -77,7 +111,9 @@ Contributions are welcome! If you find a relationship that could be modeled more
 4. Open a Pull Request.
 
 ## ⭐ Support
-If this repository helps you in your ArchiMate certification journey, please give it a **Star**! It helps others find this resource.
+
+
+**If this repository helps you on your path to becoming a certified ArchiMate Practitioner, please give it a ⭐!** It helps others find this resource.
 
 ---
 *Disclaimer: ArchiMate® is a registered trademark of The Open Group. This repository is a community-driven practice guide and is not officially affiliated with The Open Group.*
