@@ -64,8 +64,7 @@ This repository emphasizes the areas most likely to appear on the **ArchiMate Pr
 
 ## 🖼️ Preview
 
-*(Tip: Add a screenshot of your most complex ArchiMate diagram here to grab attention!)*
-![ArchiSurance Model Preview](https://via.placeholder.com/800x400.png?text=Place+your+Archi+Diagram+Screenshot+Here)
+![Application Gap Analysis](./Phase_C_IS_Architecture_Application/Figure26_Application-Gap-Analysis.jpg)
 
 ---
 
