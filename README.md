@@ -30,12 +30,13 @@ The models are organized to follow the standard ArchiSurance transformation jour
 
 | Folder / File | Description | ArchiMate Focus |
 | :--- | :--- | :--- |
-| `📦 ArchiSurance_Full_Model.archimate` | The complete, end-to-end model. | All Layers |
-| `📁 01-Motivation` | Stakeholder analysis and drivers for change. | Strategy & Motivation |
-| `📁 02-Business-Layer` | Business processes, functions, and actors. | Business Architecture |
-| `📁 03-Application-Layer` | Component realization and service exchange. | Information Systems |
-| `📁 04-Technology-Layer` | Infrastructure, Nodes, and System Software. | Technology Architecture |
-| `📁 05-Migration` | Roadmap from Baseline to Target architecture. | Implementation & Migration |
+| [`📦 ArchiSurance_Full_Model.archimate`](ArchiSurance_Practice.archimate) | The complete, end-to-end model. | All Layers |
+| [`📁 Phase A - Architecture Vision`](Phase_A_Architecture_Vision.md) | Stakeholder analysis and drivers for change. | Strategy & Motivation |
+| [`📁 Phase B - Business Architecture`](Phase_B_Business_Architecture.md) | Business processes, functions, and actors. | Business Architecture |
+| [`📁 Phase C1 - IS Architecture - Application`](Phase_C1_Application_Architecture.md) | Component realization and service exchange. | Information Systems - Application Oriented |
+| [`📁 Phase C1 - IS Architecture - Data`](Phase_C2_Data_Architecture.md) | Component realization and service exchange. | Information Systems - Data Oriented |
+| [`📁 Phase D - Technology Architecture`](Phase_D_Technology_Architecture.md) | Infrastructure, Nodes, and System Software. | Technology Architecture |
+| [`📁 Phase E&F - Opportunity Solution and Migration Planning`](Phase_E&F_Opportunities&Solutions_and_Migration_Planning.md) | Roadmap from Baseline to Target architecture. | Implementation & Migration |
 
 ---
 
